@@ -1,0 +1,399 @@
+//SS Drummer - Samuel Santana
+<control>
+default_path=Sampler/
+
+
+
+//High Bongo
+//___________________________________________
+<group>
+loop_mode=one_shot  
+amp_veltrack=10
+key=60
+
+<region>
+sample=HighBongo/HighBongo Open Vel_01.wav
+lovel=0
+hivel=19
+
+<region>
+sample=HighBongo/HighBongo Open Vel_02.wav 
+lovel=20
+hivel=29
+
+<region>
+sample=HighBongo/HighBongo Open Vel_03.wav 
+lovel=30
+hivel=39
+
+<region>
+sample=HighBongo/HighBongo Open Vel_04.wav 
+lovel=40
+hivel=49
+
+<region>
+sample=HighBongo/HighBongo Open Vel_05.wav 
+lovel=50
+hivel=59
+
+<region>
+sample=HighBongo/HighBongo Open Vel_06.wav 
+lovel=60
+hivel=69
+
+<region>
+sample=HighBongo/HighBongo Open Vel_07.wav 
+lovel=70
+hivel=79
+
+<region>
+sample=HighBongo/HighBongo Open Vel_08.wav 
+lovel=80
+hivel=99
+
+<region>
+sample=HighBongo/HighBongo Open Vel_09.wav 
+lovel=100
+hivel=109
+
+<region>
+sample=HighBongo/HighBongo Open Vel_10.wav 
+lovel=110
+hivel=127
+
+
+
+//Low Bongo
+//___________________________________________
+<group>
+loop_mode=one_shot  
+amp_veltrack=10
+key=61
+
+<region>
+sample=LowBongo/LowBongo Open Vel_01.wav
+lovel=0
+hivel=19
+
+<region>
+sample=LowBongo/LowBongo Open Vel_02.wav 
+lovel=20
+hivel=29
+
+<region>
+sample=LowBongo/LowBongo Open Vel_03.wav 
+lovel=30
+hivel=39
+
+<region>
+sample=LowBongo/LowBongo Open Vel_04.wav 
+lovel=40
+hivel=49
+
+<region>
+sample=LowBongo/LowBongo Open Vel_05.wav 
+lovel=50
+hivel=59
+
+<region>
+sample=LowBongo/LowBongo Open Vel_06.wav 
+lovel=60
+hivel=69
+
+<region>
+sample=LowBongo/LowBongo Open Vel_07.wav 
+lovel=70
+hivel=79
+
+<region>
+sample=LowBongo/LowBongo Open Vel_08.wav 
+lovel=80
+hivel=99
+
+<region>
+sample=LowBongo/LowBongo Open Vel_09.wav 
+lovel=100
+hivel=109
+
+<region>
+sample=LowBongo/LowBongo Open Vel_10.wav 
+lovel=110
+hivel=127
+
+
+
+//High Conga
+//___________________________________________
+<group>
+loop_mode=one_shot  
+amp_veltrack=10
+key=62
+
+<region>
+sample=HighConga/HighConga SlapOpen Vel_01.wav
+lovel=0
+hivel=69
+
+<region>
+sample=HighConga/HighConga SlapOpen Vel_02.wav 
+lovel=70
+hivel=79
+
+<region>
+sample=HighConga/HighConga SlapOpen Vel_03.wav 
+lovel=80
+hivel=89
+
+<region>
+sample=HighConga/HighConga SlapOpen Vel_04.wav 
+lovel=90
+hivel=99
+
+<region>
+sample=HighConga/HighConga SlapOpen Vel_05.wav 
+lovel=100
+hivel=109
+
+<region>
+sample=HighConga/HighConga SlapOpen Vel_06.wav 
+lovel=110
+hivel=127
+
+
+
+<group>
+loop_mode=one_shot  
+amp_veltrack=10
+key=63
+
+<region>
+sample=HighConga/HighConga Open Vel_01.wav
+lovel=0
+hivel=19
+
+<region>
+sample=HighConga/HighConga Open Vel_02.wav 
+lovel=20
+hivel=29
+
+<region>
+sample=HighConga/HighConga Open Vel_03.wav 
+lovel=30
+hivel=39
+
+<region>
+sample=HighConga/HighConga Open Vel_04.wav 
+lovel=40
+hivel=49
+
+<region>
+sample=HighConga/HighConga Open Vel_05.wav 
+lovel=50
+hivel=59
+
+<region>
+sample=HighConga/HighConga Open Vel_06.wav 
+lovel=60
+hivel=69
+
+<region>
+sample=HighConga/HighConga Open Vel_07.wav 
+lovel=70
+hivel=79
+
+<region>
+sample=HighConga/HighConga Open Vel_08.wav 
+lovel=80
+hivel=99
+
+<region>
+sample=HighConga/HighConga Open Vel_09.wav 
+lovel=100
+hivel=109
+
+<region>
+sample=HighConga/HighConga Open Vel_10.wav 
+lovel=110
+hivel=127
+
+
+
+//Low Conga
+//___________________________________________
+<group>
+loop_mode=one_shot  
+amp_veltrack=10
+key=64
+
+<region>
+sample=LowConga/LowConga Open Vel_01.wav
+lovel=0
+hivel=19
+
+<region>
+sample=LowConga/LowConga Open Vel_02.wav 
+lovel=20
+hivel=29
+
+<region>
+sample=LowConga/LowConga Open Vel_03.wav 
+lovel=30
+hivel=39
+
+<region>
+sample=LowConga/LowConga Open Vel_04.wav 
+lovel=40
+hivel=49
+
+<region>
+sample=LowConga/LowConga Open Vel_05.wav 
+lovel=50
+hivel=59
+
+<region>
+sample=LowConga/LowConga Open Vel_06.wav 
+lovel=60
+hivel=69
+
+<region>
+sample=LowConga/LowConga Open Vel_07.wav 
+lovel=70
+hivel=79
+
+<region>
+sample=LowConga/LowConga Open Vel_08.wav 
+lovel=80
+hivel=99
+
+<region>
+sample=LowConga/LowConga Open Vel_09.wav 
+lovel=100
+hivel=109
+
+<region>
+sample=LowConga/LowConga Open Vel_10.wav 
+lovel=110
+hivel=127
+
+
+
+//High Timbale
+//___________________________________________
+<group>
+loop_mode=one_shot  
+amp_veltrack=10
+key=65
+
+<region>
+sample=HighTimbale/HighTimbale Rim Vel_01.wav
+lovel=0
+hivel=19
+
+<region>
+sample=HighTimbale/HighTimbale Rim Vel_02.wav 
+lovel=20
+hivel=29
+
+<region>
+sample=HighTimbale/HighTimbale Rim Vel_03.wav 
+lovel=30
+hivel=39
+
+<region>
+sample=HighTimbale/HighTimbale Rim Vel_04.wav 
+lovel=40
+hivel=49
+
+<region>
+sample=HighTimbale/HighTimbale Rim Vel_05.wav 
+lovel=50
+hivel=59
+
+<region>
+sample=HighTimbale/HighTimbale Rim Vel_06.wav 
+lovel=60
+hivel=69
+
+<region>
+sample=HighTimbale/HighTimbale Rim Vel_07.wav 
+lovel=70
+hivel=79
+
+<region>
+sample=HighTimbale/HighTimbale Rim Vel_08.wav 
+lovel=80
+hivel=99
+
+<region>
+sample=HighTimbale/HighTimbale Rim Vel_09.wav 
+lovel=100
+hivel=109
+
+<region>
+sample=HighTimbale/HighTimbale Rim Vel_10.wav 
+lovel=110
+hivel=127
+
+
+
+//Low Timbale
+//___________________________________________
+<group>
+loop_mode=one_shot  
+amp_veltrack=10
+key=66
+
+<region>
+sample=LowTimbale/LowTimbale Rim Vel_01.wav
+lovel=0
+hivel=19
+
+<region>
+sample=LowTimbale/LowTimbale Rim Vel_02.wav 
+lovel=20
+hivel=29
+
+<region>
+sample=LowTimbale/LowTimbale Rim Vel_03.wav 
+lovel=30
+hivel=39
+
+<region>
+sample=LowTimbale/LowTimbale Rim Vel_04.wav 
+lovel=40
+hivel=49
+
+<region>
+sample=LowTimbale/LowTimbale Rim Vel_05.wav 
+lovel=50
+hivel=59
+
+<region>
+sample=LowTimbale/LowTimbale Rim Vel_06.wav 
+lovel=60
+hivel=69
+
+<region>
+sample=LowTimbale/LowTimbale Rim Vel_07.wav 
+lovel=70
+hivel=79
+
+<region>
+sample=LowTimbale/LowTimbale Rim Vel_08.wav 
+lovel=80
+hivel=99
+
+<region>
+sample=LowTimbale/LowTimbale Rim Vel_09.wav 
+lovel=100
+hivel=109
+
+<region>
+sample=LowTimbale/LowTimbale Rim Vel_10.wav 
+lovel=110
+hivel=127
+
+
+
+//
+//___________________________________________
