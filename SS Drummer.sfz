@@ -7,7 +7,7 @@ default_path=Sampler/
 //High Bongo
 //___________________________________________
 <group>
-loop_mode=one_shot  
+loop_mode=one_shot
 amp_veltrack=10
 key=60
 
@@ -395,5 +395,39 @@ hivel=127
 
 
 
-//
+//Clave
+//___________________________________________
+<group>
+loop_mode=one_shot  
+amp_veltrack=10
+key=75
+
+<region>
+sample=Claves/Claves Vel_01.wav
+lovel=0
+hivel=79
+
+<region>
+sample=Claves/Claves Vel_02.wav 
+lovel=80
+hivel=89
+
+<region>
+sample=Claves/Claves Vel_03.wav 
+lovel=90
+hivel=99
+
+<region>
+sample=Claves/Claves Vel_04.wav 
+lovel=100
+hivel=109
+
+<region>
+sample=Claves/Claves Vel_05.wav 
+lovel=110
+hivel=127
+
+
+
+//Clave
 //___________________________________________
