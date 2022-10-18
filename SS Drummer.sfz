@@ -1,7 +1,10 @@
-//SS Drummer - Samuel Santana
+//SS Drummer - Samuel Santana - 2022
+//
+//https://github.com/samuelsantanaoficial/ssdrummer
+//
+//___________________________________________
 <control>
-default_path=Sampler/
-
+default_path=Samples/SS Drummer/
 
 
 
@@ -9,6 +12,60 @@ default_path=Sampler/
 //___________________________________________
 <group>
 group=1
+loop_mode=one_shot
+amp_veltrack=20
+volume=3
+key=36
+
+<region>
+sample=01 - Kick/Kick Vel_01.wav
+lovel=0
+hivel=19
+
+<region>
+sample=01 - Kick/Kick Vel_02.wav 
+lovel=20
+hivel=29
+
+<region>
+sample=01 - Kick/Kick Vel_03.wav 
+lovel=30
+hivel=39
+
+<region>
+sample=01 - Kick/Kick Vel_04.wav 
+lovel=40
+hivel=49
+
+<region>
+sample=01 - Kick/Kick Vel_05.wav 
+lovel=50
+hivel=59
+
+<region>
+sample=01 - Kick/Kick Vel_06.wav 
+lovel=60
+hivel=69
+
+<region>
+sample=01 - Kick/Kick Vel_07.wav 
+lovel=70
+hivel=79
+
+<region>
+sample=01 - Kick/Kick Vel_08.wav 
+lovel=80
+hivel=99
+
+<region>
+sample=01 - Kick/Kick Vel_09.wav 
+lovel=100
+hivel=109
+
+<region>
+sample=01 - Kick/Kick Vel_10.wav 
+lovel=110
+hivel=127
 
 
 
@@ -16,6 +73,35 @@ group=1
 //___________________________________________
 <group>
 group=2
+loop_mode=one_shot
+amp_veltrack=10
+volume=6
+key=37
+
+<region>
+sample=02 - Snare/Snare Sidestick Vel_01.wav
+lovel=0
+hivel=79
+
+<region>
+sample=02 - Snare/Snare Sidestick Vel_02.wav 
+lovel=80
+hivel=89
+
+<region>
+sample=02 - Snare/Snare Sidestick Vel_03.wav 
+lovel=90
+hivel=99
+
+<region>
+sample=02 - Snare/Snare Sidestick Vel_04.wav 
+lovel=100
+hivel=109
+
+<region>
+sample=02 - Snare/Snare Sidestick Vel_05.wav 
+lovel=110
+hivel=127
 
 
 
@@ -23,13 +109,148 @@ group=2
 //___________________________________________
 <group>
 group=2
+loop_mode=one_shot
+amp_veltrack=10
+volume=6
+key=38
 
+<region>
+sample=02 - Snare/Snare Center Vel_01.wav
+lovel=10
+hivel=19
+
+<region>
+sample=02 - Snare/Snare Center Vel_02.wav 
+lovel=20
+hivel=29
+
+<region>
+sample=02 - Snare/Snare Center Vel_03.wav 
+lovel=30
+hivel=39
+
+<region>
+sample=02 - Snare/Snare Center Vel_04.wav 
+lovel=40
+hivel=49
+
+<region>
+sample=02 - Snare/Snare Center Vel_05.wav 
+lovel=50
+hivel=59
+
+<region>
+sample=02 - Snare/Snare Center Vel_06.wav 
+lovel=60
+hivel=69
+
+<region>
+sample=02 - Snare/Snare Center Vel_07.wav 
+lovel=70
+hivel=79
+
+<region>
+sample=02 - Snare/Snare Center Vel_08.wav 
+lovel=80
+hivel=89
+
+<region>
+sample=02 - Snare/Snare Center Vel_09.wav 
+lovel=90
+hivel=99
+
+<region>
+sample=02 - Snare/Snare Center Vel_10.wav 
+lovel=100
+hivel=109
+
+<region>
+sample=02 - Snare/Snare Center Vel_11.wav 
+lovel=110
+hivel=119
+
+<region>
+sample=02 - Snare/Snare Center Vel_12.wav 
+lovel=120
+hivel=127
+
+<region>
+sample=02 - Snare/Snare Bottom Vel_10.wav
+volume=0
 
 
 //Snare
 //___________________________________________
 <group>
 group=2
+loop_mode=one_shot
+amp_veltrack=10
+volume=6
+key=40
+
+<region>
+sample=02 - Snare/Snare Rim Vel_01.wav
+lovel=10
+hivel=19
+
+<region>
+sample=02 - Snare/Snare Rim Vel_02.wav 
+lovel=20
+hivel=29
+
+<region>
+sample=02 - Snare/Snare Rim Vel_03.wav 
+lovel=30
+hivel=39
+
+<region>
+sample=02 - Snare/Snare Rim Vel_04.wav 
+lovel=40
+hivel=49
+
+<region>
+sample=02 - Snare/Snare Rim Vel_05.wav 
+lovel=50
+hivel=59
+
+<region>
+sample=02 - Snare/Snare Rim Vel_06.wav 
+lovel=60
+hivel=69
+
+<region>
+sample=02 - Snare/Snare Rim Vel_07.wav 
+lovel=70
+hivel=79
+
+<region>
+sample=02 - Snare/Snare Rim Vel_08.wav 
+lovel=80
+hivel=89
+
+<region>
+sample=02 - Snare/Snare Rim Vel_09.wav 
+lovel=90
+hivel=99
+
+<region>
+sample=02 - Snare/Snare Rim Vel_10.wav 
+lovel=100
+hivel=109
+
+<region>
+sample=02 - Snare/Snare Rim Vel_11.wav 
+lovel=110
+hivel=119
+
+<region>
+sample=02 - Snare/Snare Rim Vel_12.wav 
+lovel=120
+hivel=127
+
+<region>
+sample=02 - Snare/Snare Bottom Vel_10.wav
+volume=0
 
 
 
