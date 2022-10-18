@@ -2,14 +2,14 @@
 //
 //https://github.com/samuelsantanaoficial/ssdrummer
 //
-//___________________________________________
+//______________________________________________________________________________________
 <control>
 default_path=Samples/SS Drummer/
 
 
 
 //Kick
-//___________________________________________
+//______________________________________________________________________________________
 <group>
 group=1
 loop_mode=one_shot
@@ -70,7 +70,7 @@ hivel=127
 
 
 //Side Stick
-//___________________________________________
+//______________________________________________________________________________________
 <group>
 group=2
 loop_mode=one_shot
@@ -106,7 +106,7 @@ hivel=127
 
 
 //Snare
-//___________________________________________
+//______________________________________________________________________________________
 <group>
 group=2
 loop_mode=one_shot
@@ -180,7 +180,7 @@ volume=0
 
 
 //Snare
-//___________________________________________
+//______________________________________________________________________________________
 <group>
 group=2
 loop_mode=one_shot
@@ -255,7 +255,7 @@ volume=0
 
 
 //HiHat
-//___________________________________________
+//______________________________________________________________________________________
 <group>
 group=3
 loop_mode=one_shot
@@ -314,7 +314,7 @@ sample=03 - Hihat/Hihat Closed Vel_10.wav
 lovel=110
 hivel=127
 
-//___________________________________________
+//______________________________________________________________________________________
 <group>
 group=3
 loop_mode=one_shot
@@ -373,7 +373,7 @@ sample=03 - Hihat/Hihat Pedal Vel_10.wav
 lovel=110
 hivel=127
 
-//___________________________________________
+//______________________________________________________________________________________
 <group>
 group=4
 off_by=3
@@ -436,8 +436,198 @@ hivel=127
 
 
 
+//Tom 1
+//______________________________________________________________________________________
+<group>
+loop_mode=one_shot
+amp_veltrack=10
+key=50
+pitch_keycenter=47
+
+<region>
+sample=06 - Tom 3/Tom 3 Vel_01.wav
+lovel=0
+hivel=99
+
+<region>
+sample=06 - Tom 3/Tom 3 Vel_02.wav 
+lovel=100
+hivel=109
+
+<region>
+sample=06 - Tom 3/Tom 3 Vel_03.wav 
+lovel=110
+hivel=119
+
+<region>
+sample=06 - Tom 3/Tom 3 Vel_04.wav 
+lovel=120
+hivel=127
+
+
+
+//Tom 2
+//______________________________________________________________________________________
+<group>
+loop_mode=one_shot
+amp_veltrack=10
+key=48
+pitch_keycenter=45
+
+<region>
+sample=07 - Tom 4/Tom 4 Vel_01.wav
+lovel=0
+hivel=99
+
+<region>
+sample=07 - Tom 4/Tom 4 Vel_02.wav 
+lovel=100
+hivel=109
+
+<region>
+sample=07 - Tom 4/Tom 4 Vel_03.wav 
+lovel=110
+hivel=119
+
+<region>
+sample=07 - Tom 4/Tom 4 Vel_04.wav 
+lovel=120
+hivel=127
+
+
+
+//Tom 3
+//______________________________________________________________________________________
+<group>
+loop_mode=one_shot
+amp_veltrack=10
+key=47
+
+<region>
+sample=06 - Tom 3/Tom 3 Vel_01.wav
+lovel=0
+hivel=99
+
+<region>
+sample=06 - Tom 3/Tom 3 Vel_02.wav 
+lovel=100
+hivel=109
+
+<region>
+sample=06 - Tom 3/Tom 3 Vel_03.wav 
+lovel=110
+hivel=119
+
+<region>
+sample=06 - Tom 3/Tom 3 Vel_04.wav 
+lovel=120
+hivel=127
+
+
+
+//Tom 4
+//______________________________________________________________________________________
+<group>
+loop_mode=one_shot
+amp_veltrack=10
+key=45
+
+<region>
+sample=07 - Tom 4/Tom 4 Vel_01.wav
+lovel=0
+hivel=99
+
+<region>
+sample=07 - Tom 4/Tom 4 Vel_02.wav 
+lovel=100
+hivel=109
+
+<region>
+sample=07 - Tom 4/Tom 4 Vel_03.wav 
+lovel=110
+hivel=119
+
+<region>
+sample=07 - Tom 4/Tom 4 Vel_04.wav 
+lovel=120
+hivel=127
+
+
+
+//Tom 5
+//______________________________________________________________________________________
+<group>
+loop_mode=one_shot
+amp_veltrack=10
+key=43
+
+<region>
+sample=08 - Tom 5/Tom 5 Vel_01.wav
+lovel=0
+hivel=99
+
+<region>
+sample=08 - Tom 5/Tom 5 Vel_02.wav 
+lovel=100
+hivel=109
+
+<region>
+sample=08 - Tom 5/Tom 5 Vel_03.wav 
+lovel=110
+hivel=119
+
+<region>
+sample=08 - Tom 5/Tom 5 Vel_04.wav 
+lovel=120
+hivel=127
+
+
+
+//Tom 6
+//______________________________________________________________________________________
+<group>
+loop_mode=one_shot
+amp_veltrack=10
+key=41
+
+<region>
+sample=09 - Tom 6/Tom 6 Vel_01.wav
+lovel=0
+hivel=99
+
+<region>
+sample=09 - Tom 6/Tom 6 Vel_02.wav 
+lovel=100
+hivel=109
+
+<region>
+sample=09 - Tom 6/Tom 6 Vel_03.wav 
+lovel=110
+hivel=119
+
+<region>
+sample=09 - Tom 6/Tom 6 Vel_04.wav 
+lovel=120
+hivel=127
+
+
+
+//Cymbal Crash 1
+//______________________________________________________________________________________
+<group>
+loop_mode=one_shot
+amp_veltrack=0
+key=49
+
+<region>
+sample=10 - Cymbal Crash 1/Cymbal Crash 1.wav
+lovel=110
+hivel=119
+
+
+
 //High Bongo
-//___________________________________________
+//______________________________________________________________________________________
 <group>
 loop_mode=one_shot
 amp_veltrack=10
@@ -496,7 +686,7 @@ hivel=127
 
 
 //Low Bongo
-//___________________________________________
+//______________________________________________________________________________________
 <group>
 loop_mode=one_shot  
 amp_veltrack=10
@@ -555,7 +745,7 @@ hivel=127
 
 
 //High Conga
-//___________________________________________
+//______________________________________________________________________________________
 <group>
 loop_mode=one_shot  
 amp_veltrack=10
@@ -591,7 +781,7 @@ sample=15 - High Conga/HighConga SlapOpen Vel_06.wav
 lovel=110
 hivel=127
 
-//___________________________________________
+//______________________________________________________________________________________
 <group>
 loop_mode=one_shot  
 amp_veltrack=10
@@ -650,7 +840,7 @@ hivel=127
 
 
 //Low Conga
-//___________________________________________
+//______________________________________________________________________________________
 <group>
 loop_mode=one_shot  
 amp_veltrack=10
@@ -709,7 +899,7 @@ hivel=127
 
 
 //High Timbale
-//___________________________________________
+//______________________________________________________________________________________
 <group>
 loop_mode=one_shot  
 amp_veltrack=10
@@ -768,7 +958,7 @@ hivel=127
 
 
 //Low Timbale
-//___________________________________________
+//______________________________________________________________________________________
 <group>
 loop_mode=one_shot  
 amp_veltrack=10
@@ -827,4 +1017,4 @@ hivel=127
 
 
 //Clave
-//___________________________________________
+//______________________________________________________________________________________
