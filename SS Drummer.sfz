@@ -4,6 +4,217 @@ default_path=Sampler/
 
 
 
+
+//Kick
+//___________________________________________
+<group>
+group=1
+
+
+
+//Side Stick
+//___________________________________________
+<group>
+group=2
+
+
+
+//Snare
+//___________________________________________
+<group>
+group=2
+
+
+
+//Snare
+//___________________________________________
+<group>
+group=2
+
+
+
+//HiHat
+//___________________________________________
+<group>
+group=3
+loop_mode=one_shot
+off_mode=normal
+ampeg_release=0.07
+amp_veltrack=50
+key=42
+
+<region>
+sample=03 - Hihat/Hihat Closed Vel_01.wav
+lovel=0
+hivel=19
+
+<region>
+sample=03 - Hihat/Hihat Closed Vel_02.wav 
+lovel=20
+hivel=29
+
+<region>
+sample=03 - Hihat/Hihat Closed Vel_03.wav 
+lovel=30
+hivel=39
+
+<region>
+sample=03 - Hihat/Hihat Closed Vel_04.wav 
+lovel=40
+hivel=49
+
+<region>
+sample=03 - Hihat/Hihat Closed Vel_05.wav 
+lovel=50
+hivel=59
+
+<region>
+sample=03 - Hihat/Hihat Closed Vel_06.wav 
+lovel=60
+hivel=69
+
+<region>
+sample=03 - Hihat/Hihat Closed Vel_07.wav 
+lovel=70
+hivel=79
+
+<region>
+sample=03 - Hihat/Hihat Closed Vel_08.wav 
+lovel=80
+hivel=99
+
+<region>
+sample=03 - Hihat/Hihat Closed Vel_09.wav 
+lovel=100
+hivel=109
+
+<region>
+sample=03 - Hihat/Hihat Closed Vel_10.wav 
+lovel=110
+hivel=127
+
+//___________________________________________
+<group>
+group=3
+loop_mode=one_shot
+off_mode=normal
+ampeg_release=0.07
+amp_veltrack=50
+key=44
+
+<region>
+sample=03 - Hihat/Hihat Pedal Vel_01.wav
+lovel=0
+hivel=19
+
+<region>
+sample=03 - Hihat/Hihat Pedal Vel_02.wav 
+lovel=20
+hivel=29
+
+<region>
+sample=03 - Hihat/Hihat Pedal Vel_03.wav 
+lovel=30
+hivel=39
+
+<region>
+sample=03 - Hihat/Hihat Pedal Vel_04.wav 
+lovel=40
+hivel=49
+
+<region>
+sample=03 - Hihat/Hihat Pedal Vel_05.wav 
+lovel=50
+hivel=59
+
+<region>
+sample=03 - Hihat/Hihat Pedal Vel_06.wav 
+lovel=60
+hivel=69
+
+<region>
+sample=03 - Hihat/Hihat Pedal Vel_07.wav 
+lovel=70
+hivel=79
+
+<region>
+sample=03 - Hihat/Hihat Pedal Vel_08.wav 
+lovel=80
+hivel=99
+
+<region>
+sample=03 - Hihat/Hihat Pedal Vel_09.wav 
+lovel=100
+hivel=109
+
+<region>
+sample=03 - Hihat/Hihat Pedal Vel_10.wav 
+lovel=110
+hivel=127
+
+//___________________________________________
+<group>
+group=4
+off_by=3
+loop_mode=one_shot
+off_mode=normal
+ampeg_release=0.07
+amp_veltrack=50
+key=46
+polyphony=5
+
+<region>
+sample=03 - Hihat/Hihat Open Vel_01.wav
+lovel=0
+hivel=19
+
+<region>
+sample=03 - Hihat/Hihat Open Vel_02.wav 
+lovel=20
+hivel=29
+
+<region>
+sample=03 - Hihat/Hihat Open Vel_03.wav 
+lovel=30
+hivel=39
+
+<region>
+sample=03 - Hihat/Hihat Open Vel_04.wav 
+lovel=40
+hivel=49
+
+<region>
+sample=03 - Hihat/Hihat Open Vel_05.wav 
+lovel=50
+hivel=59
+
+<region>
+sample=03 - Hihat/Hihat Open Vel_06.wav 
+lovel=60
+hivel=69
+
+<region>
+sample=03 - Hihat/Hihat Open Vel_07.wav 
+lovel=70
+hivel=79
+
+<region>
+sample=03 - Hihat/Hihat Open Vel_08.wav 
+lovel=80
+hivel=99
+
+<region>
+sample=03 - Hihat/Hihat Open Vel_09.wav 
+lovel=100
+hivel=109
+
+<region>
+sample=03 - Hihat/Hihat Open Vel_10.wav 
+lovel=110
+hivel=127
+
+
+
 //High Bongo
 //___________________________________________
 <group>
@@ -12,52 +223,52 @@ amp_veltrack=10
 key=60
 
 <region>
-sample=HighBongo/HighBongo Open Vel_01.wav
+sample=13 - High Bongo/HighBongo Open Vel_01.wav
 lovel=0
 hivel=19
 
 <region>
-sample=HighBongo/HighBongo Open Vel_02.wav 
+sample=13 - High Bongo/HighBongo Open Vel_02.wav 
 lovel=20
 hivel=29
 
 <region>
-sample=HighBongo/HighBongo Open Vel_03.wav 
+sample=13 - High Bongo/HighBongo Open Vel_03.wav 
 lovel=30
 hivel=39
 
 <region>
-sample=HighBongo/HighBongo Open Vel_04.wav 
+sample=13 - High Bongo/HighBongo Open Vel_04.wav 
 lovel=40
 hivel=49
 
 <region>
-sample=HighBongo/HighBongo Open Vel_05.wav 
+sample=13 - High Bongo/HighBongo Open Vel_05.wav 
 lovel=50
 hivel=59
 
 <region>
-sample=HighBongo/HighBongo Open Vel_06.wav 
+sample=13 - High Bongo/HighBongo Open Vel_06.wav 
 lovel=60
 hivel=69
 
 <region>
-sample=HighBongo/HighBongo Open Vel_07.wav 
+sample=13 - High Bongo/HighBongo Open Vel_07.wav 
 lovel=70
 hivel=79
 
 <region>
-sample=HighBongo/HighBongo Open Vel_08.wav 
+sample=13 - High Bongo/HighBongo Open Vel_08.wav 
 lovel=80
 hivel=99
 
 <region>
-sample=HighBongo/HighBongo Open Vel_09.wav 
+sample=13 - High Bongo/HighBongo Open Vel_09.wav 
 lovel=100
 hivel=109
 
 <region>
-sample=HighBongo/HighBongo Open Vel_10.wav 
+sample=13 - High Bongo/HighBongo Open Vel_10.wav 
 lovel=110
 hivel=127
 
@@ -71,52 +282,52 @@ amp_veltrack=10
 key=61
 
 <region>
-sample=LowBongo/LowBongo Open Vel_01.wav
+sample=14 - Low Bongo/LowBongo Open Vel_01.wav
 lovel=0
 hivel=19
 
 <region>
-sample=LowBongo/LowBongo Open Vel_02.wav 
+sample=14 - Low Bongo/LowBongo Open Vel_02.wav 
 lovel=20
 hivel=29
 
 <region>
-sample=LowBongo/LowBongo Open Vel_03.wav 
+sample=14 - Low Bongo/LowBongo Open Vel_03.wav 
 lovel=30
 hivel=39
 
 <region>
-sample=LowBongo/LowBongo Open Vel_04.wav 
+sample=14 - Low Bongo/LowBongo Open Vel_04.wav 
 lovel=40
 hivel=49
 
 <region>
-sample=LowBongo/LowBongo Open Vel_05.wav 
+sample=14 - Low Bongo/LowBongo Open Vel_05.wav 
 lovel=50
 hivel=59
 
 <region>
-sample=LowBongo/LowBongo Open Vel_06.wav 
+sample=14 - Low Bongo/LowBongo Open Vel_06.wav 
 lovel=60
 hivel=69
 
 <region>
-sample=LowBongo/LowBongo Open Vel_07.wav 
+sample=14 - Low Bongo/LowBongo Open Vel_07.wav 
 lovel=70
 hivel=79
 
 <region>
-sample=LowBongo/LowBongo Open Vel_08.wav 
+sample=14 - Low Bongo/LowBongo Open Vel_08.wav 
 lovel=80
 hivel=99
 
 <region>
-sample=LowBongo/LowBongo Open Vel_09.wav 
+sample=14 - Low Bongo/LowBongo Open Vel_09.wav 
 lovel=100
 hivel=109
 
 <region>
-sample=LowBongo/LowBongo Open Vel_10.wav 
+sample=14 - Low Bongo/LowBongo Open Vel_10.wav 
 lovel=110
 hivel=127
 
@@ -130,89 +341,88 @@ amp_veltrack=10
 key=62
 
 <region>
-sample=HighConga/HighConga SlapOpen Vel_01.wav
+sample=15 - High Conga/HighConga SlapOpen Vel_01.wav
 lovel=0
 hivel=69
 
 <region>
-sample=HighConga/HighConga SlapOpen Vel_02.wav 
+sample=15 - High Conga/HighConga SlapOpen Vel_02.wav 
 lovel=70
 hivel=79
 
 <region>
-sample=HighConga/HighConga SlapOpen Vel_03.wav 
+sample=15 - High Conga/HighConga SlapOpen Vel_03.wav 
 lovel=80
 hivel=89
 
 <region>
-sample=HighConga/HighConga SlapOpen Vel_04.wav 
+sample=15 - High Conga/HighConga SlapOpen Vel_04.wav 
 lovel=90
 hivel=99
 
 <region>
-sample=HighConga/HighConga SlapOpen Vel_05.wav 
+sample=15 - High Conga/HighConga SlapOpen Vel_05.wav 
 lovel=100
 hivel=109
 
 <region>
-sample=HighConga/HighConga SlapOpen Vel_06.wav 
+sample=15 - High Conga/HighConga SlapOpen Vel_06.wav 
 lovel=110
 hivel=127
 
-
-
+//___________________________________________
 <group>
 loop_mode=one_shot  
 amp_veltrack=10
 key=63
 
 <region>
-sample=HighConga/HighConga Open Vel_01.wav
+sample=15 - High Conga/HighConga Open Vel_01.wav
 lovel=0
 hivel=19
 
 <region>
-sample=HighConga/HighConga Open Vel_02.wav 
+sample=15 - High Conga/HighConga Open Vel_02.wav 
 lovel=20
 hivel=29
 
 <region>
-sample=HighConga/HighConga Open Vel_03.wav 
+sample=15 - High Conga/HighConga Open Vel_03.wav 
 lovel=30
 hivel=39
 
 <region>
-sample=HighConga/HighConga Open Vel_04.wav 
+sample=15 - High Conga/HighConga Open Vel_04.wav 
 lovel=40
 hivel=49
 
 <region>
-sample=HighConga/HighConga Open Vel_05.wav 
+sample=15 - High Conga/HighConga Open Vel_05.wav 
 lovel=50
 hivel=59
 
 <region>
-sample=HighConga/HighConga Open Vel_06.wav 
+sample=15 - High Conga/HighConga Open Vel_06.wav 
 lovel=60
 hivel=69
 
 <region>
-sample=HighConga/HighConga Open Vel_07.wav 
+sample=15 - High Conga/HighConga Open Vel_07.wav 
 lovel=70
 hivel=79
 
 <region>
-sample=HighConga/HighConga Open Vel_08.wav 
+sample=15 - High Conga/HighConga Open Vel_08.wav 
 lovel=80
 hivel=99
 
 <region>
-sample=HighConga/HighConga Open Vel_09.wav 
+sample=15 - High Conga/HighConga Open Vel_09.wav 
 lovel=100
 hivel=109
 
 <region>
-sample=HighConga/HighConga Open Vel_10.wav 
+sample=15 - High Conga/HighConga Open Vel_10.wav 
 lovel=110
 hivel=127
 
@@ -226,52 +436,52 @@ amp_veltrack=10
 key=64
 
 <region>
-sample=LowConga/LowConga Open Vel_01.wav
+sample=16 - Low Conga/LowConga Open Vel_01.wav
 lovel=0
 hivel=19
 
 <region>
-sample=LowConga/LowConga Open Vel_02.wav 
+sample=16 - Low Conga/LowConga Open Vel_02.wav 
 lovel=20
 hivel=29
 
 <region>
-sample=LowConga/LowConga Open Vel_03.wav 
+sample=16 - Low Conga/LowConga Open Vel_03.wav 
 lovel=30
 hivel=39
 
 <region>
-sample=LowConga/LowConga Open Vel_04.wav 
+sample=16 - Low Conga/LowConga Open Vel_04.wav 
 lovel=40
 hivel=49
 
 <region>
-sample=LowConga/LowConga Open Vel_05.wav 
+sample=16 - Low Conga/LowConga Open Vel_05.wav 
 lovel=50
 hivel=59
 
 <region>
-sample=LowConga/LowConga Open Vel_06.wav 
+sample=16 - Low Conga/LowConga Open Vel_06.wav 
 lovel=60
 hivel=69
 
 <region>
-sample=LowConga/LowConga Open Vel_07.wav 
+sample=16 - Low Conga/LowConga Open Vel_07.wav 
 lovel=70
 hivel=79
 
 <region>
-sample=LowConga/LowConga Open Vel_08.wav 
+sample=16 - Low Conga/LowConga Open Vel_08.wav 
 lovel=80
 hivel=99
 
 <region>
-sample=LowConga/LowConga Open Vel_09.wav 
+sample=16 - Low Conga/LowConga Open Vel_09.wav 
 lovel=100
 hivel=109
 
 <region>
-sample=LowConga/LowConga Open Vel_10.wav 
+sample=16 - Low Conga/LowConga Open Vel_10.wav 
 lovel=110
 hivel=127
 
@@ -285,52 +495,52 @@ amp_veltrack=10
 key=65
 
 <region>
-sample=HighTimbale/HighTimbale Rim Vel_01.wav
+sample=17 - High Timbale/HighTimbale Rim Vel_01.wav
 lovel=0
 hivel=19
 
 <region>
-sample=HighTimbale/HighTimbale Rim Vel_02.wav 
+sample=17 - High Timbale/HighTimbale Rim Vel_02.wav 
 lovel=20
 hivel=29
 
 <region>
-sample=HighTimbale/HighTimbale Rim Vel_03.wav 
+sample=17 - High Timbale/HighTimbale Rim Vel_03.wav 
 lovel=30
 hivel=39
 
 <region>
-sample=HighTimbale/HighTimbale Rim Vel_04.wav 
+sample=17 - High Timbale/HighTimbale Rim Vel_04.wav 
 lovel=40
 hivel=49
 
 <region>
-sample=HighTimbale/HighTimbale Rim Vel_05.wav 
+sample=17 - High Timbale/HighTimbale Rim Vel_05.wav 
 lovel=50
 hivel=59
 
 <region>
-sample=HighTimbale/HighTimbale Rim Vel_06.wav 
+sample=17 - High Timbale/HighTimbale Rim Vel_06.wav 
 lovel=60
 hivel=69
 
 <region>
-sample=HighTimbale/HighTimbale Rim Vel_07.wav 
+sample=17 - High Timbale/HighTimbale Rim Vel_07.wav 
 lovel=70
 hivel=79
 
 <region>
-sample=HighTimbale/HighTimbale Rim Vel_08.wav 
+sample=17 - High Timbale/HighTimbale Rim Vel_08.wav 
 lovel=80
 hivel=99
 
 <region>
-sample=HighTimbale/HighTimbale Rim Vel_09.wav 
+sample=17 - High Timbale/HighTimbale Rim Vel_09.wav 
 lovel=100
 hivel=109
 
 <region>
-sample=HighTimbale/HighTimbale Rim Vel_10.wav 
+sample=17 - High Timbale/HighTimbale Rim Vel_10.wav 
 lovel=110
 hivel=127
 
@@ -344,86 +554,52 @@ amp_veltrack=10
 key=66
 
 <region>
-sample=LowTimbale/LowTimbale Rim Vel_01.wav
+sample=18 - Low Timbale/LowTimbale Rim Vel_01.wav
 lovel=0
 hivel=19
 
 <region>
-sample=LowTimbale/LowTimbale Rim Vel_02.wav 
+sample=18 - Low Timbale/LowTimbale Rim Vel_02.wav 
 lovel=20
 hivel=29
 
 <region>
-sample=LowTimbale/LowTimbale Rim Vel_03.wav 
+sample=18 - Low Timbale/LowTimbale Rim Vel_03.wav 
 lovel=30
 hivel=39
 
 <region>
-sample=LowTimbale/LowTimbale Rim Vel_04.wav 
+sample=18 - Low Timbale/LowTimbale Rim Vel_04.wav 
 lovel=40
 hivel=49
 
 <region>
-sample=LowTimbale/LowTimbale Rim Vel_05.wav 
+sample=18 - Low Timbale/LowTimbale Rim Vel_05.wav 
 lovel=50
 hivel=59
 
 <region>
-sample=LowTimbale/LowTimbale Rim Vel_06.wav 
+sample=18 - Low Timbale/LowTimbale Rim Vel_06.wav 
 lovel=60
 hivel=69
 
 <region>
-sample=LowTimbale/LowTimbale Rim Vel_07.wav 
+sample=18 - Low Timbale/LowTimbale Rim Vel_07.wav 
 lovel=70
 hivel=79
 
 <region>
-sample=LowTimbale/LowTimbale Rim Vel_08.wav 
+sample=18 - Low Timbale/LowTimbale Rim Vel_08.wav 
 lovel=80
 hivel=99
 
 <region>
-sample=LowTimbale/LowTimbale Rim Vel_09.wav 
+sample=18 - Low Timbale/LowTimbale Rim Vel_09.wav 
 lovel=100
 hivel=109
 
 <region>
-sample=LowTimbale/LowTimbale Rim Vel_10.wav 
-lovel=110
-hivel=127
-
-
-
-//Clave
-//___________________________________________
-<group>
-loop_mode=one_shot  
-amp_veltrack=10
-key=75
-
-<region>
-sample=Claves/Claves Vel_01.wav
-lovel=0
-hivel=79
-
-<region>
-sample=Claves/Claves Vel_02.wav 
-lovel=80
-hivel=89
-
-<region>
-sample=Claves/Claves Vel_03.wav 
-lovel=90
-hivel=99
-
-<region>
-sample=Claves/Claves Vel_04.wav 
-lovel=100
-hivel=109
-
-<region>
-sample=Claves/Claves Vel_05.wav 
+sample=18 - Low Timbale/LowTimbale Rim Vel_10.wav 
 lovel=110
 hivel=127
 
