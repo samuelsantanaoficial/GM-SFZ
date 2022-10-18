@@ -1,0 +1,24 @@
+# MIDI note/CC name map
+66 Low Timbale
+65 High Timbale
+64 Low Conga
+63 High Conga
+62 Mute High Conga
+61 Low Bongo
+60 High Bongo
+
+57 Crash 2
+50 Tom 1
+49 Crash 1
+48 Tom 2
+47 Tom 3
+46 HiHat Open
+45 Tom 4
+44 HiHat Pedal
+43 Tom 5
+42 HiHat Closed
+41 Tom 6
+40 Snare Rimshot
+38 Snare Center
+37 Side Stick
+36 Kick
