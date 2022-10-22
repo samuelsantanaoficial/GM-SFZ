@@ -1,8 +1,5 @@
 //SS Drummer - Samuel Santana - 2022
-//
 //https://github.com/samuelsantanaoficial/ssdrummer
-//
-//______________________________________________________________________________________
 <control>
 default_path=Samples/SS Drummer/
 
@@ -13,8 +10,7 @@ default_path=Samples/SS Drummer/
 <group>
 group=1
 loop_mode=one_shot
-amp_veltrack=20
-volume=3
+amp_veltrack=50
 key=36
 
 <region>
@@ -69,13 +65,52 @@ hivel=127
 
 
 
+//Sticks
+//______________________________________________________________________________________
+<group>
+group=2
+loop_mode=one_shot
+amp_veltrack=75
+key=31
+
+<region>
+sample=02 - Snare/Sticks.wav
+lovel=0
+hivel=127
+
+
+
+//Hand Clap
+//______________________________________________________________________________________
+<group>
+group=2
+loop_mode=one_shot
+amp_veltrack=75
+key=39
+
+<region>
+sample=00 - Hand Clap/Hand Clap Vel_01.wav
+lovel=0
+hivel=79
+
+<region>
+sample=00 - Hand Clap/Hand Clap Vel_02.wav
+lovel=80
+hivel=99
+
+<region>
+sample=00 - Hand Clap/Hand Clap Vel_03.wav
+lovel=100
+hivel=127
+
+
+
 //Side Stick
 //______________________________________________________________________________________
 <group>
 group=2
 loop_mode=one_shot
 amp_veltrack=10
-volume=6
 key=37
 
 <region>
@@ -110,8 +145,7 @@ hivel=127
 <group>
 group=2
 loop_mode=one_shot
-amp_veltrack=10
-volume=6
+amp_veltrack=95
 key=38
 
 <region>
@@ -184,9 +218,9 @@ volume=0
 <group>
 group=2
 loop_mode=one_shot
-amp_veltrack=10
-volume=6
+amp_veltrack=95
 key=40
+volume=-3
 
 <region>
 sample=02 - Snare/Snare Rim Vel_01.wav
@@ -263,6 +297,7 @@ off_mode=normal
 ampeg_release=0.07
 amp_veltrack=50
 key=42
+volume=-3
 
 <region>
 sample=03 - Hihat/Hihat Closed Vel_01.wav
@@ -322,6 +357,7 @@ off_mode=normal
 ampeg_release=0.07
 amp_veltrack=50
 key=44
+volume=-3
 
 <region>
 sample=03 - Hihat/Hihat Pedal Vel_01.wav
@@ -440,27 +476,27 @@ hivel=127
 //______________________________________________________________________________________
 <group>
 loop_mode=one_shot
-amp_veltrack=10
+amp_veltrack=75
 key=50
 pitch_keycenter=47
 
 <region>
-sample=06 - Tom 3/Tom 3 Vel_01.wav
+sample=06 - Tom 2/Tom 2 Vel_01.wav
 lovel=0
 hivel=99
 
 <region>
-sample=06 - Tom 3/Tom 3 Vel_02.wav 
+sample=06 - Tom 2/Tom 2 Vel_02.wav 
 lovel=100
 hivel=109
 
 <region>
-sample=06 - Tom 3/Tom 3 Vel_03.wav 
+sample=06 - Tom 2/Tom 2 Vel_03.wav 
 lovel=110
 hivel=119
 
 <region>
-sample=06 - Tom 3/Tom 3 Vel_04.wav 
+sample=06 - Tom 2/Tom 2 Vel_04.wav 
 lovel=120
 hivel=127
 
@@ -470,9 +506,39 @@ hivel=127
 //______________________________________________________________________________________
 <group>
 loop_mode=one_shot
-amp_veltrack=10
+amp_veltrack=75
 key=48
-pitch_keycenter=45
+pitch_keycenter=48
+
+<region>
+sample=06 - Tom 2/Tom 2 Vel_01.wav
+lovel=0
+hivel=99
+
+<region>
+sample=06 - Tom 2/Tom 2 Vel_02.wav 
+lovel=100
+hivel=109
+
+<region>
+sample=06 - Tom 2/Tom 2 Vel_03.wav 
+lovel=110
+hivel=119
+
+<region>
+sample=06 - Tom 2/Tom 2 Vel_04.wav 
+lovel=120
+hivel=127
+
+
+
+//Tom 3
+//______________________________________________________________________________________
+<group>
+loop_mode=one_shot
+amp_veltrack=75
+key=47
+pitch_keycenter=44
 
 <region>
 sample=07 - Tom 4/Tom 4 Vel_01.wav
@@ -496,41 +562,13 @@ hivel=127
 
 
 
-//Tom 3
-//______________________________________________________________________________________
-<group>
-loop_mode=one_shot
-amp_veltrack=10
-key=47
-
-<region>
-sample=06 - Tom 3/Tom 3 Vel_01.wav
-lovel=0
-hivel=99
-
-<region>
-sample=06 - Tom 3/Tom 3 Vel_02.wav 
-lovel=100
-hivel=109
-
-<region>
-sample=06 - Tom 3/Tom 3 Vel_03.wav 
-lovel=110
-hivel=119
-
-<region>
-sample=06 - Tom 3/Tom 3 Vel_04.wav 
-lovel=120
-hivel=127
-
-
-
 //Tom 4
 //______________________________________________________________________________________
 <group>
 loop_mode=one_shot
-amp_veltrack=10
+amp_veltrack=75
 key=45
+pitch_keycenter=45
 
 <region>
 sample=07 - Tom 4/Tom 4 Vel_01.wav
@@ -558,26 +596,27 @@ hivel=127
 //______________________________________________________________________________________
 <group>
 loop_mode=one_shot
-amp_veltrack=10
+amp_veltrack=75
 key=43
+pitch_keycenter=40
 
 <region>
-sample=08 - Tom 5/Tom 5 Vel_01.wav
+sample=08 - Tom 6/Tom 6 Vel_01.wav
 lovel=0
 hivel=99
 
 <region>
-sample=08 - Tom 5/Tom 5 Vel_02.wav 
+sample=08 - Tom 6/Tom 6 Vel_02.wav 
 lovel=100
 hivel=109
 
 <region>
-sample=08 - Tom 5/Tom 5 Vel_03.wav 
+sample=08 - Tom 6/Tom 6 Vel_03.wav 
 lovel=110
 hivel=119
 
 <region>
-sample=08 - Tom 5/Tom 5 Vel_04.wav 
+sample=08 - Tom 6/Tom 6 Vel_04.wav 
 lovel=120
 hivel=127
 
@@ -587,26 +626,27 @@ hivel=127
 //______________________________________________________________________________________
 <group>
 loop_mode=one_shot
-amp_veltrack=10
+amp_veltrack=75
 key=41
+pitch_keycenter=41
 
 <region>
-sample=09 - Tom 6/Tom 6 Vel_01.wav
+sample=08 - Tom 6/Tom 6 Vel_01.wav
 lovel=0
 hivel=99
 
 <region>
-sample=09 - Tom 6/Tom 6 Vel_02.wav 
+sample=08 - Tom 6/Tom 6 Vel_02.wav 
 lovel=100
 hivel=109
 
 <region>
-sample=09 - Tom 6/Tom 6 Vel_03.wav 
+sample=08 - Tom 6/Tom 6 Vel_03.wav 
 lovel=110
 hivel=119
 
 <region>
-sample=09 - Tom 6/Tom 6 Vel_04.wav 
+sample=08 - Tom 6/Tom 6 Vel_04.wav 
 lovel=120
 hivel=127
 
@@ -616,23 +656,91 @@ hivel=127
 //______________________________________________________________________________________
 <group>
 loop_mode=one_shot
-amp_veltrack=0
+amp_veltrack=100
 key=49
+volume=-9
 
 <region>
-sample=10 - Cymbal Crash 1/Cymbal Crash 1.wav
+sample=10 - Crash Cymbal 1/Crash Cymbal 1.wav
 
 
 
-//Cymbal Crash 1
+//Ride Cymbal 1
 //______________________________________________________________________________________
 <group>
 loop_mode=one_shot
-amp_veltrack=0
-key=57
+amp_veltrack=100
+key=51
+volume=-9
 
 <region>
-sample=14 - Cymbal Crash 2/Cymbal Crash 2.wav
+sample=11 - Ride Cymbal 1/Ride Cymbal 1.wav
+
+
+
+//Chinese Cymbal
+//______________________________________________________________________________________
+<group>
+loop_mode=one_shot
+amp_veltrack=100
+key=52
+volume=-10
+
+<region>
+sample=12 - Chinese Cymbal/Chinese Cymbal.wav
+
+
+
+//Ride Bell Cymbal 1
+//______________________________________________________________________________________
+<group>
+loop_mode=one_shot
+amp_veltrack=100
+key=53
+volume=-10
+
+<region>
+sample=11 - Ride Cymbal 1/Ride Bell Cymbal 1.wav
+
+
+
+//Splash Cymbal
+//______________________________________________________________________________________
+<group>
+loop_mode=one_shot
+amp_veltrack=100
+key=55
+volume=-9
+
+<region>
+sample=13 - Splash Cymbal/Splash Cymbal.wav
+
+
+
+//Crash Cymbal 2
+//______________________________________________________________________________________
+<group>
+loop_mode=one_shot
+amp_veltrack=100
+key=57
+volume=-9
+
+<region>
+sample=14 - Crash Cymbal 2/Crash Cymbal 2.wav
+
+
+
+//Ride Cymbal 2
+//______________________________________________________________________________________
+<group>
+loop_mode=one_shot
+amp_veltrack=100
+key=59
+pitch_keycenter=60
+volume=-9
+
+<region>
+sample=11 - Ride Cymbal 1/Ride Cymbal 1.wav
 
 
 
@@ -1026,5 +1134,5 @@ hivel=127
 
 
 
-//Clave
+//...
 //______________________________________________________________________________________

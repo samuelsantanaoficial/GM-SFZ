@@ -6,8 +6,12 @@
 62 Mute High Conga
 61 Low Bongo
 60 High Bongo
-
+59 Ride 2
 57 Crash 2
+55 Splash
+53 Ride Bell
+52 China
+51 Ride
 50 Tom 1
 49 Crash 1
 48 Tom 2
@@ -22,3 +26,4 @@
 38 Snare Center
 37 Side Stick
 36 Kick
+31 Sticks
