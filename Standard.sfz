@@ -5,7 +5,7 @@ default_path=Samples/Standard/
 
 <global>
 loop_mode=one_shot
-amp_veltrack=75
+amp_veltrack=100
 
 //Kick
 <group>
