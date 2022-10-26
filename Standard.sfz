@@ -28,14 +28,9 @@ off_by=3
 off_mode=normal
 ampeg_release=0.07
 
-<region>key=42 lovel=0 hivel=89 sample=Hi-Hat Closed Up.wav
-<region>key=46 lovel=0 hivel=89 sample=Hi-Hat Open Up.wav
-
-<region>key=42 lovel=90 hivel=127 sample=Hi-Hat Closed Down.wav
-<region>key=46 lovel=90 hivel=127 sample=Hi-Hat Open Down.wav
-
+<region>key=42 sample=Hi-Hat Closed.wav
 <region>key=44 sample=Hi-Hat Pedal.wav
-
+<region>key=46 sample=Hi-Hat Open.wav
 
 //Toms
 <group>
