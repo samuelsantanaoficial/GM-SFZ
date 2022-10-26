@@ -10,16 +10,21 @@ amp_veltrack=100
 //Kick
 <group>
 group=1
-<region>key=35 pitch_keycenter=35 sample=Kick.wav
-<region>key=36 pitch_keycenter=36 sample=Kick.wav
+<region>key=35 pitch_keycenter=35 sample=In Kick Damp.wav
+<region>key=36 pitch_keycenter=36 sample=In Kick Damp.wav
 
 //Snare
 <group>
 group=2
-<region>key=31 pitch_keycenter=31 sample=Sticks.wav
-<region>key=37 pitch_keycenter=37 sample=Side Stick.wav
-<region>key=38 pitch_keycenter=38 sample=Snare.wav
-<region>key=40 pitch_keycenter=40 sample=Snare.wav
+<region>key=31 pitch_keycenter=31 volume=6 sample=OH Stick Hit.wav
+<region>key=39 pitch_keycenter=39 volume=6 sample=OH Clap Multi.wav
+
+<region>key=37 pitch_keycenter=37 sample=Top Snare1 Sidestick.wav
+<region>key=38 pitch_keycenter=38 sample=Top Snare1 Center.wav
+<region>key=40 pitch_keycenter=40 sample=Top Snare1 Rimshot.wav
+
+<region>key=38 pitch_keycenter=38 sample=Bot Snare1 Center.wav
+<region>key=40 pitch_keycenter=40 sample=Bot Snare1 Rimshot.wav
 
 //Hi-Hat
 <group>
@@ -28,49 +33,48 @@ off_by=3
 off_mode=normal
 ampeg_release=0.07
 
-<region>key=42 sample=Hi-Hat Closed.wav
-<region>key=44 sample=Hi-Hat Pedal.wav
-<region>key=46 sample=Hi-Hat Open.wav
+<region>key=42 sample=Hihat ClosedShank.wav
+<region>key=44 sample=Hihat ClosedPedal.wav
+<region>key=46 sample=Hihat OpenFull.wav
 
 //Toms
 <group>
 group=4
-<region>key=50 pitch_keycenter=48 sample=Tom 1.wav
-<region>key=48 pitch_keycenter=48 sample=Tom 1.wav
-<region>key=47 pitch_keycenter=45 sample=Tom 2.wav
-<region>key=45 pitch_keycenter=45 sample=Tom 2.wav
-<region>key=43 pitch_keycenter=41 sample=Tom 3.wav
-<region>key=41 pitch_keycenter=41 sample=Tom 3.wav
+<region>key=50 pitch_keycenter=48 sample=Tom1 Center.wav
+<region>key=48 pitch_keycenter=48 sample=Tom1 Center.wav
+<region>key=47 pitch_keycenter=45 sample=Tom2 Center.wav
+<region>key=45 pitch_keycenter=45 sample=Tom2 Center.wav
+<region>key=43 pitch_keycenter=41 sample=Tom3 Center.wav
+<region>key=41 pitch_keycenter=41 sample=Tom3 Center.wav
 
 //Cymbals
 <group>
 group=5
-<region>key=49 pitch_keycenter=49 sample=Crash Cymbal.wav
-<region>key=57 pitch_keycenter=55 sample=Crash Cymbal.wav
-<region>key=51 pitch_keycenter=51 sample=Ride Cymbal.wav
-<region>key=59 pitch_keycenter=57 sample=Ride Cymbal.wav
-<region>key=53 pitch_keycenter=53 sample=Ride Bell.wav
-<region>key=55 pitch_keycenter=55 sample=Splash Cymbal.wav
-<region>key=52 pitch_keycenter=52 sample=Chinese Cymbal.wav
+<region>key=49 pitch_keycenter=49 sample=OH Crash1 Edge.wav
+<region>key=57 pitch_keycenter=59 sample=OH Crash1 Edge.wav
+<region>key=51 pitch_keycenter=51 sample=OH Ride Tip.wav
+<region>key=59 pitch_keycenter=59 sample=OH Ride Edge.wav
+<region>key=53 pitch_keycenter=53 sample=OH Ride Bell.wav
+<region>key=55 pitch_keycenter=55 sample=OH Splash Edge.wav
+<region>key=52 pitch_keycenter=52 sample=OH China Edge.wav
 
 //Percussion
 <group>
 group=6
-<region>key=39 pitch_keycenter=39 sample=Hand Clap.wav
 
 <region>key=54 pitch_keycenter=54 sample=Tambourine.wav
 <region>key=56 pitch_keycenter=56 sample=Cowbell.wav
 <region>key=58 pitch_keycenter=58 sample=Vibra Slap.wav
 
-<region>key=60 pitch_keycenter=60 sample=Bongo High Open.wav
-<region>key=61 pitch_keycenter=61 sample=Bongo Low Open.wav
+<region>key=60 pitch_keycenter=60 sample=HighBongo Open.wav
+<region>key=61 pitch_keycenter=61 sample=LowBongo Open.wav
 
-<region>key=62 pitch_keycenter=62 sample=Conga High Muted.wav
-<region>key=63 pitch_keycenter=63 sample=Conga High Open.wav
-<region>key=64 pitch_keycenter=64 sample=Conga Low Open.wav
+<region>key=62 pitch_keycenter=62 sample=HighConga SlapOpen.wav
+<region>key=63 pitch_keycenter=63 sample=HighConga Open.wav
+<region>key=64 pitch_keycenter=64 sample=LowConga Open.wav
 
-<region>key=65 pitch_keycenter=65 sample=Timbale Low.wav
-<region>key=66 pitch_keycenter=66 sample=Timbale High.wav
+<region>key=65 pitch_keycenter=65 sample=HighTimbale Rim.wav
+<region>key=66 pitch_keycenter=66 sample=LowTimbale Rim.wav
 
 <region>key=67 pitch_keycenter=67 sample=Agogo High.wav
 <region>key=68 pitch_keycenter=68 sample=Agogo Low.wav
