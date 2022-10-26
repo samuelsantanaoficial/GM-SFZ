@@ -86,8 +86,8 @@ group=6
 <region>key=71 pitch_keycenter=71 sample=Whistle Short.wav
 <region>key=72 pitch_keycenter=72 sample=Whistle Long.wav
 
-<region>key=73 pitch_keycenter=73 sample=Guiro Short.wav
-<region>key=74 pitch_keycenter=74 sample=Guiro Long.wav
+<region>key=73 pitch_keycenter=73 sample=Metalguiro Short.wav
+<region>key=74 pitch_keycenter=74 sample=Metalguiro Long.wav
 
 <region>key=75 pitch_keycenter=75 sample=Claves.wav
 
