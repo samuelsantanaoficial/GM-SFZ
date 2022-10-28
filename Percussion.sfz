@@ -1,0 +1,53 @@
+//Drum Kit Standard GM - Samuel Santana - 2022
+//https://github.com/samuelsantanaoficial/standard.git
+<control>
+default_path=Samples/Standard/
+
+<global>
+loop_mode=one_shot
+amp_veltrack=100
+
+//Percussion
+<group>
+group=6
+
+<region>key=54 pitch_keycenter=54 sample=Tambourine.wav
+<region>key=56 pitch_keycenter=56 sample=Cowbell.wav
+<region>key=58 pitch_keycenter=58 sample=Vibra Slap.wav
+
+<region>key=60 pitch_keycenter=60 sample=HighBongo Open.wav
+<region>key=61 pitch_keycenter=61 sample=LowBongo Open.wav
+
+<region>key=62 pitch_keycenter=62 sample=HighConga SlapOpen.wav
+<region>key=63 pitch_keycenter=63 sample=HighConga Open.wav
+<region>key=64 pitch_keycenter=64 sample=LowConga Open.wav
+
+<region>key=65 pitch_keycenter=65 sample=HighTimbale Rim.wav
+<region>key=66 pitch_keycenter=66 sample=LowTimbale Rim.wav
+
+<region>key=67 pitch_keycenter=67 sample=Agogo High.wav
+<region>key=68 pitch_keycenter=68 sample=Agogo Low.wav
+
+<region>key=69 pitch_keycenter=69 sample=Cabasa.wav
+
+<region>key=70 pitch_keycenter=70 sample=Maracas.wav
+
+<region>key=71 pitch_keycenter=71 sample=Whistle Short.wav
+<region>key=72 pitch_keycenter=72 sample=Whistle Long.wav
+
+<region>key=73 pitch_keycenter=73 sample=Metalguiro Short.wav
+<region>key=74 pitch_keycenter=74 sample=Metalguiro Long.wav
+
+<region>key=75 pitch_keycenter=75 sample=Claves.wav
+
+<region>key=76 pitch_keycenter=76 sample=Wood Block High.wav
+<region>key=77 pitch_keycenter=77 sample=Wood Block Low.wav
+
+<region>key=78 pitch_keycenter=78 sample=Cuica Mute.wav
+<region>key=79 pitch_keycenter=79 sample=Cuica Open.wav
+
+<region>key=80 pitch_keycenter=80 sample=Triangle Mute.wav
+<region>key=81 pitch_keycenter=81 sample=Triangle Open.wav
+
+<region>key=86 pitch_keycenter=86 sample=Surdo Mute.wav
+<region>key=87 pitch_keycenter=87 sample=Surdo Open.wav
