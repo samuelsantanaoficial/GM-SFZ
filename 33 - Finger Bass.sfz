@@ -1,0 +1,34 @@
+//Finger Bass GM - Samuel Santana - 2022
+//https://github.com/samuelsantanaoficial/fingerbass
+<control>
+default_path=Samples/Finger Bass/
+
+<master>
+amp_veltrack=80
+volume=0
+ampeg_attack=0.001
+ampeg_hold=0.001
+ampeg_decay=19.996
+ampeg_sustain=0.001
+ampeg_release=0.258
+
+<region> lokey=B0  hikey=D1  pitch_keycenter=C#1 sample=C#2sus1.wav
+<region> lokey=D#1 hikey=E1  pitch_keycenter=E1  sample=E2sus1.wav
+<region> lokey=F1  hikey=F#1 pitch_keycenter=F#1 sample=F#2sus1.wav
+<region> lokey=G1  hikey=A1  pitch_keycenter=G#1 sample=G#2sus1.wav
+<region> lokey=A#1 hikey=B1  pitch_keycenter=B1  sample=B2sus1.wav
+
+<region> lokey=C2  hikey=D2   pitch_keycenter=C#2 sample=C#3sus1.wav
+<region> lokey=D#2 hikey=F2   pitch_keycenter=E2  sample=E3sus1.wav
+<region> lokey=F#2 hikey=G2   pitch_keycenter=F#2 sample=F#3sus1.wav
+<region> lokey=G#2 hikey=A#2  pitch_keycenter=A2  sample=A3sus1.wav
+<region> lokey=B2  hikey=C3   pitch_keycenter=B2  sample=B3sus1.wav
+
+<region> lokey=C#3 hikey=D#3  pitch_keycenter=D3  sample=D4sus1.wav
+<region> lokey=E3  hikey=F3   pitch_keycenter=E3  sample=E4sus1.wav
+<region> lokey=F#3 hikey=G#3  pitch_keycenter=G3  sample=G4sus1.wav
+<region> lokey=A3  hikey=A#3  pitch_keycenter=A3  sample=A4sus1.wav
+
+<region> lokey=B3 hikey=C#4  pitch_keycenter=C4  sample=C5sus1.wav
+<region> lokey=D4 hikey=D#4  pitch_keycenter=D4  sample=D5sus1.wav
+<region> lokey=E4 hikey=C5   pitch_keycenter=F4  sample=F5sus1.wav

@@ -1,0 +1,51 @@
+//Cello GM - Samuel Santana - 2022
+//https://github.com/samuelsantanaoficial/cello
+<control>
+default_path=Samples/Cello/
+
+<master>
+amp_veltrack=80
+volume=0
+ampeg_attack=0.008
+ampeg_hold=0.776
+ampeg_decay=70.522
+ampeg_sustain=48.9779
+ampeg_release=0.4
+
+<region> key=38 pitch_keycenter=38 sample=Cello Sustn fxxx 38_03.wav
+<region> key=39 pitch_keycenter=39 sample=Cello Sustn fxxx 39_03.wav
+<region> key=40 pitch_keycenter=40 sample=Cello Sustn fxxx 40_03.wav
+<region> key=41 pitch_keycenter=41 sample=Cello Sustn fxxx 41_01.wav
+<region> key=42 pitch_keycenter=42 sample=Cello Sustn fxxx 42_01.wav
+<region> key=43 pitch_keycenter=43 sample=Cello Sustn fxxx 43_01.wav
+<region> key=44 pitch_keycenter=44 sample=Cello Sustn fxxx 44_01.wav
+<region> key=45 pitch_keycenter=45 sample=Cello Sustn fxxx 45_03.wav
+<region> key=46 pitch_keycenter=46 sample=Cello Sustn fxxx 46_03.wav
+<region> key=47 pitch_keycenter=47 sample=Cello Sustn fxxx 47_01.wav
+<region> key=48 pitch_keycenter=48 sample=Cello Sustn fxxx 48_01.wav
+<region> key=49 pitch_keycenter=49 sample=Cello Sustn fxxx 49_01.wav
+<region> key=50 pitch_keycenter=50 sample=Cello Sustn fxxx 50_01.wav
+<region> key=51 pitch_keycenter=51 sample=Cello Sustn fxxx 51_01.wav
+<region> key=52 pitch_keycenter=52 sample=Cello Sustn fxxx 52_03.wav
+<region> key=53 pitch_keycenter=53 sample=Cello Sustn fxxx 53_03.wav
+<region> key=54 pitch_keycenter=54 sample=Cello Sustn fxxx 54_01.wav
+<region> key=55 pitch_keycenter=55 sample=Cello Sustn fxxx 55_01.wav
+<region> key=56 pitch_keycenter=56 sample=Cello Sustn fxxx 56_01.wav
+<region> key=57 pitch_keycenter=57 sample=Cello Sustn fxxx 57_01.wav
+<region> key=58 pitch_keycenter=58 sample=Cello Sustn fxxx 58_03.wav
+<region> key=59 pitch_keycenter=59 sample=Cello Sustn fxxx 59_03.wav
+<region> key=60 pitch_keycenter=60 sample=Cello Sustn fxxx 60_03.wav
+<region> key=61 pitch_keycenter=61 sample=Cello Sustn fxxx 61_01.wav
+<region> key=62 pitch_keycenter=62 sample=Cello Sustn fxxx 62_01.wav
+<region> key=63 pitch_keycenter=63 sample=Cello Sustn fxxx 63_03.wav
+<region> key=64 pitch_keycenter=64 sample=Cello Sustn fxxx 64_03.wav
+<region> key=65 pitch_keycenter=65 sample=Cello Sustn fxxx 65_03.wav
+<region> key=66 pitch_keycenter=66 sample=Cello Sustn fxxx 66_01.wav
+<region> key=67 pitch_keycenter=67 sample=Cello Sustn fxxx 67_03.wav
+<region> key=68 pitch_keycenter=68 sample=Cello Sustn fxxx 68_01.wav
+<region> key=69 pitch_keycenter=69 sample=Cello Sustn fxxx 69_03.wav
+<region> key=70 pitch_keycenter=70 sample=Cello Sustn fxxx 70_03.wav
+<region> key=71 pitch_keycenter=71 sample=Cello Sustn fxxx 71_01.wav
+<region> key=72 pitch_keycenter=72 sample=Cello Sustn fxxx 72_01.wav
+<region> key=36 pitch_keycenter=36 sample=Cello Sustn fxxx 36_01.wav
+<region> key=37 pitch_keycenter=37 sample=Cello Sustn fxxx 37_03.wav

@@ -1,3 +1,1 @@
-# Drum Kit Standard GM
-
-## Samuel Santana
+# Intrumentos Padrão GM - sfz

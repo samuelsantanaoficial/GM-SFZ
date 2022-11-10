@@ -1,0 +1,52 @@
+//Trumpet GM - Samuel Santana - 2022
+//https://github.com/samuelsantanaoficial/trumpet
+<control>
+default_path=Samples/Trumpet/
+
+<master>
+amp_veltrack=80
+volume=0
+ampeg_attack=0.008
+ampeg_hold=0.776
+ampeg_decay=70.522
+ampeg_sustain=48.9779
+ampeg_release=0.204
+
+<region> key=52 pitch_keycenter=52 sample=Trup1 Sustn ffxx 52_03.wav
+<region> key=53 pitch_keycenter=53 sample=Trup1 Sustn ffxx 53_03.wav
+<region> key=54 pitch_keycenter=54 sample=Trup1 Sustn ffxx 54_03.wav
+<region> key=55 pitch_keycenter=55 sample=Trup1 Sustn ffxx 55_01.wav
+<region> key=56 pitch_keycenter=56 sample=Trup1 Sustn ffxx 56_03.wav
+<region> key=57 pitch_keycenter=57 sample=Trup1 Sustn ffxx 57_01.wav
+<region> key=58 pitch_keycenter=58 sample=Trup1 Sustn ffxx 58_01.wav
+<region> key=59 pitch_keycenter=59 sample=Trup1 Sustn ffxx 59_03.wav
+<region> key=60 pitch_keycenter=60 sample=Trup1 Sustn ffxx 60_01.wav
+<region> key=61 pitch_keycenter=61 sample=Trup1 Sustn ffxx 61_03.wav
+<region> key=62 pitch_keycenter=62 sample=Trup1 Sustn ffxx 62_01.wav
+<region> key=63 pitch_keycenter=63 sample=Trup1 Sustn ffxx 63_01.wav
+<region> key=64 pitch_keycenter=64 sample=Trup1 Sustn ffxx 64_01.wav
+<region> key=65 pitch_keycenter=65 sample=Trup1 Sustn ffxx 65_03.wav
+<region> key=66 pitch_keycenter=66 sample=Trup1 Sustn ffxx 66_03.wav
+<region> key=67 pitch_keycenter=67 sample=Trup1 Sustn ffxx 67_03.wav
+<region> key=68 pitch_keycenter=68 sample=Trup1 Sustn ffxx 68_01.wav
+<region> key=69 pitch_keycenter=69 sample=Trup1 Sustn ffxx 69_01.wav
+<region> key=70 pitch_keycenter=70 sample=Trup1 Sustn ffxx 70_01.wav
+<region> key=71 pitch_keycenter=71 sample=Trup1 Sustn ffxx 71_01.wav
+<region> key=72 pitch_keycenter=72 sample=Trup1 Sustn ffxx 72_01.wav
+<region> key=73 pitch_keycenter=73 sample=Trup1 Sustn ffxx 73_01.wav
+<region> key=74 pitch_keycenter=74 sample=Trup1 Sustn ffxx 74_03.wav
+<region> key=75 pitch_keycenter=75 sample=Trup1 Sustn ffxx 75_01.wav
+<region> key=76 pitch_keycenter=76 sample=Trup1 Sustn ffxx 76_05.wav
+<region> key=77 pitch_keycenter=77 sample=Trup1 Sustn ffxx 77_05.wav
+<region> key=78 pitch_keycenter=78 sample=Trup1 Sustn ffxx 78_03.wav
+<region> key=79 pitch_keycenter=79 sample=Trup1 Sustn ffxx 79_03.wav
+<region> key=80 pitch_keycenter=80 sample=Trup1 Sustn ffxx 80_01.wav
+<region> key=81 pitch_keycenter=81 sample=Trup1 Sustn ffxx 81_01.wav
+<region> key=82 pitch_keycenter=82 sample=Trup1 Sustn ffxx 82_01.wav
+<region> key=83 pitch_keycenter=83 sample=Trup1 Sustn ffxx 83_01.wav
+<region> key=84 pitch_keycenter=84 sample=Trup1 Sustn ffxx 84_03.wav
+<region> key=85 pitch_keycenter=85 sample=Trup1 Sustn ffxx 85_03.wav
+<region> key=86 pitch_keycenter=86 sample=Trup1 Sustn ffxx 86_03.wav
+<region> key=87 pitch_keycenter=87 sample=Trup1 Sustn ffxx 87_03.wav
+<region> key=88 pitch_keycenter=88 sample=Trup1 Sustn ffxx 88_03.wav
+<region> key=89 pitch_keycenter=89 sample=Trup1 Sustn ffxx 89_03.wav
