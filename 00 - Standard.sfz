@@ -51,6 +51,7 @@ group=4
 //Cymbals
 <group>
 group=5
+volume=-9
 <region>key=49 pitch_keycenter=49 sample=OH Crash1 Edge.wav
 <region>key=57 pitch_keycenter=59 sample=OH Crash1 Edge.wav
 <region>key=51 pitch_keycenter=51 sample=OH Ride Tip.wav
