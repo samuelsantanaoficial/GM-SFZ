@@ -7,13 +7,13 @@ default_path=Samples/26 - Electric Guitar Les Paul/
 amp_veltrack=80
 ampeg_release=0.4
 
-<region> lokey=40  hikey=44  pitch_keycenter=40 sample=EG1_40.wav
-<region> lokey=45  hikey=49  pitch_keycenter=45 sample=EG1_45.wav
-<region> lokey=50  hikey=54  pitch_keycenter=50 sample=EG1_50.wav
-<region> lokey=55  hikey=58  pitch_keycenter=55 sample=EG1_55.wav
-<region> lokey=59  hikey=63  pitch_keycenter=59 sample=EG1_59.wav
-<region> lokey=64  hikey=67  pitch_keycenter=64 sample=EG1_64.wav
-<region> lokey=68  hikey=71  pitch_keycenter=68 sample=EG1_68.wav
-<region> lokey=72  hikey=75  pitch_keycenter=72 sample=EG1_72.wav
-<region> lokey=76  hikey=79  pitch_keycenter=76 sample=EG1_76.wav
-<region> lokey=80  hikey=84  pitch_keycenter=80 sample=EG1_80.wav
+<region> lokey=40  hikey=44  pitch_keycenter=40 sample=Electric Guitar Les Paul_40.wav
+<region> lokey=45  hikey=49  pitch_keycenter=45 sample=Electric Guitar Les Paul_45.wav
+<region> lokey=50  hikey=54  pitch_keycenter=50 sample=Electric Guitar Les Paul_50.wav
+<region> lokey=55  hikey=58  pitch_keycenter=55 sample=Electric Guitar Les Paul_55.wav
+<region> lokey=59  hikey=63  pitch_keycenter=59 sample=Electric Guitar Les Paul_59.wav
+<region> lokey=64  hikey=67  pitch_keycenter=64 sample=Electric Guitar Les Paul_64.wav
+<region> lokey=68  hikey=71  pitch_keycenter=68 sample=Electric Guitar Les Paul_68.wav
+<region> lokey=72  hikey=75  pitch_keycenter=72 sample=Electric Guitar Les Paul_72.wav
+<region> lokey=76  hikey=79  pitch_keycenter=76 sample=Electric Guitar Les Paul_76.wav
+<region> lokey=80  hikey=84  pitch_keycenter=80 sample=Electric Guitar Les Paul_80.wav

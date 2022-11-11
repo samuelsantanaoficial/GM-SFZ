@@ -7,35 +7,14 @@ default_path=Samples/43 - Double Bass/
 amp_veltrack=80
 ampeg_release=0.4
 
-<region> key=37 pitch_keycenter=37 sample=CBass Bowtu fxxx 37_01.wav
-<region> key=44 pitch_keycenter=44 sample=CBass Bowtu fxxx 44_01.wav
-<region> key=51 pitch_keycenter=51 sample=CBass Bowtu fxxx 51_01.wav
-<region> key=53 pitch_keycenter=53 sample=CBass Bowtu fxxx 53_01.wav
-<region> key=24 pitch_keycenter=24 sample=CBass Sustn fxxx 24_03.wav
-<region> key=25 pitch_keycenter=25 sample=CBass Sustn fxxx 25_03.wav
-<region> key=26 pitch_keycenter=26 sample=CBass Sustn fxxx 26_03.wav
-<region> key=27 pitch_keycenter=27 sample=CBass Sustn fxxx 27_01.wav
-<region> key=28 pitch_keycenter=28 sample=CBass Sustn fxxx 28_03.wav
-<region> key=29 pitch_keycenter=29 sample=CBass Sustn fxxx 29_01.wav
-<region> key=30 pitch_keycenter=30 sample=CBass Sustn fxxx 30_01.wav
-<region> key=31 pitch_keycenter=31 sample=CBass Sustn fxxx 31_03.wav
-<region> key=32 pitch_keycenter=32 sample=CBass Sustn fxxx 32_03.wav
-<region> key=33 pitch_keycenter=33 sample=CBass Sustn fxxx 33_03.wav
-<region> key=34 pitch_keycenter=34 sample=CBass Sustn fxxx 34_03.wav
-<region> key=35 pitch_keycenter=35 sample=CBass Sustn fxxx 35_01.wav
-<region> key=36 pitch_keycenter=36 sample=CBass Sustn fxxx 36_03.wav
-<region> key=38 pitch_keycenter=38 sample=CBass Sustn fxxx 38_01.wav
-<region> key=39 pitch_keycenter=39 sample=CBass Sustn fxxx 39_01.wav
-<region> key=40 pitch_keycenter=40 sample=CBass Sustn fxxx 40_01.wav
-<region> key=41 pitch_keycenter=41 sample=CBass Sustn fxxx 41_03.wav
-<region> key=42 pitch_keycenter=42 sample=CBass Sustn fxxx 42_03.wav
-<region> key=43 pitch_keycenter=43 sample=CBass Sustn fxxx 43_03.wav
-<region> key=45 pitch_keycenter=45 sample=CBass Sustn fxxx 45_03.wav
-<region> key=46 pitch_keycenter=46 sample=CBass Sustn fxxx 46_01.wav
-<region> key=47 pitch_keycenter=47 sample=CBass Sustn fxxx 47_01.wav
-<region> key=48 pitch_keycenter=48 sample=CBass Sustn fxxx 48_03.wav
-<region> key=49 pitch_keycenter=49 sample=CBass Sustn fxxx 49_03.wav
-<region> key=50 pitch_keycenter=50 sample=CBass Sustn fxxx 50_03.wav
-<region> key=52 pitch_keycenter=52 sample=CBass Sustn fxxx 52_01.wav
-<region> key=54 pitch_keycenter=54 sample=CBass Sustn fxxx 54_01.wav
-<region> key=55 pitch_keycenter=55 sample=CBass Sustn fxxx 55_01.wav
+<region> lokey=24 hikey=26 pitch_keycenter=24 sample=Double Bass_24.wav
+<region> lokey=27 hikey=29 pitch_keycenter=27 sample=Double Bass_27.wav
+<region> lokey=30 hikey=32 pitch_keycenter=30 sample=Double Bass_30.wav
+<region> lokey=33 hikey=35 pitch_keycenter=33 sample=Double Bass_33.wav
+<region> lokey=36 hikey=38 pitch_keycenter=36 sample=Double Bass_36.wav
+<region> lokey=39 hikey=41 pitch_keycenter=39 sample=Double Bass_39.wav
+<region> lokey=42 hikey=44 pitch_keycenter=42 sample=Double Bass_42.wav
+<region> lokey=45 hikey=49 pitch_keycenter=45 sample=Double Bass_45.wav
+<region> lokey=48 hikey=50 pitch_keycenter=48 sample=Double Bass_48.wav
+<region> lokey=51 hikey=53 pitch_keycenter=51 sample=Double Bass_51.wav
+<region> lokey=54 hikey=56 pitch_keycenter=54 sample=Double Bass_54.wav

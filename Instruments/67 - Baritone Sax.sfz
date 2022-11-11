@@ -7,36 +7,13 @@ default_path=Samples/67 - Baritone Sax/
 amp_veltrack=80
 ampeg_release=0.4
 
-<region> key=47  pitch_keycenter=47 sample=BaSax Sustn fxvb 47_09.wav
-<region> key=48  pitch_keycenter=48 sample=BaSax Sustn fxvb 48_09.wav
-<region> key=49  pitch_keycenter=49 sample=BaSax Sustn fxvb 49_09.wav
-<region> key=50  pitch_keycenter=50 sample=BaSax Sustn fxvb 50_09.wav
-<region> key=51  pitch_keycenter=51 sample=BaSax Sustn fxvb 51_09.wav
-<region> key=52  pitch_keycenter=52 sample=BaSax Sustn fxvb 52_09.wav
-<region> key=53  pitch_keycenter=53 sample=BaSax Sustn fxvb 53_11.wav
-<region> key=54  pitch_keycenter=54 sample=BaSax Sustn fxvb 54_11.wav
-<region> key=55  pitch_keycenter=55 sample=BaSax Sustn fxvb 55_11.wav
-<region> key=56  pitch_keycenter=56 sample=BaSax Sustn fxvb 56_11.wav
-<region> key=57  pitch_keycenter=57 sample=BaSax Sustn fxvb 57_11.wav
-<region> key=58  pitch_keycenter=58 sample=BaSax Sustn fxvb 58_09.wav
-<region> key=59  pitch_keycenter=59 sample=BaSax Sustn fxvb 59_11.wav
-<region> key=60  pitch_keycenter=60 sample=BaSax Sustn fxvb 60_07.wav
-<region> key=61  pitch_keycenter=61 sample=BaSax Sustn fxvb 61_09.wav
-<region> key=62  pitch_keycenter=62 sample=BaSax Sustn fxvb 62_11.wav
-<region> key=63  pitch_keycenter=63 sample=BaSax Sustn fxvb 63_11.wav
-<region> key=64  pitch_keycenter=64 sample=BaSax Sustn fxvb 64_07.wav
-<region> key=65  pitch_keycenter=65 sample=BaSax Sustn fxvb 65_11.wav
-<region> key=66  pitch_keycenter=66 sample=BaSax Sustn fxvb 66_11.wav
-<region> key=67  pitch_keycenter=67 sample=BaSax Sustn fxvb 67_11.wav
-<region> key=68  pitch_keycenter=68 sample=BaSax Sustn fxvb 68_11.wav
-<region> key=36  pitch_keycenter=36 sample=BaSax Sustn fxvb 36_11.wav
-<region> key=37  pitch_keycenter=37 sample=BaSax Sustn fxvb 37_09.wav
-<region> key=38  pitch_keycenter=38 sample=BaSax Sustn fxvb 38_09.wav
-<region> key=39  pitch_keycenter=39 sample=BaSax Sustn fxvb 39_11.wav
-<region> key=40  pitch_keycenter=40 sample=BaSax Sustn fxvb 40_07.wav
-<region> key=41  pitch_keycenter=41 sample=BaSax Sustn fxvb 41_07.wav
-<region> key=42  pitch_keycenter=42 sample=BaSax Sustn fxvb 42_09.wav
-<region> key=43  pitch_keycenter=43 sample=BaSax Sustn fxvb 43_09.wav
-<region> key=44  pitch_keycenter=44 sample=BaSax Sustn fxvb 44_09.wav
-<region> key=45  pitch_keycenter=45 sample=BaSax Sustn fxvb 45_11.wav
-<region> key=46  pitch_keycenter=46 sample=BaSax Sustn fxvb 46_11.wav
+<region> lokey=36 hikey=38 pitch_keycenter=36 sample=Baritone Sax_36.wav
+<region> lokey=39 hikey=41 pitch_keycenter=39 sample=Baritone Sax_39.wav
+<region> lokey=42 hikey=44 pitch_keycenter=42 sample=Baritone Sax_42.wav
+<region> lokey=45 hikey=49 pitch_keycenter=45 sample=Baritone Sax_45.wav
+<region> lokey=48 hikey=50 pitch_keycenter=48 sample=Baritone Sax_48.wav
+<region> lokey=51 hikey=53 pitch_keycenter=51 sample=Baritone Sax_51.wav
+<region> lokey=54 hikey=56 pitch_keycenter=54 sample=Baritone Sax_54.wav
+<region> lokey=57 hikey=59 pitch_keycenter=57 sample=Baritone Sax_57.wav
+<region> lokey=60 hikey=62 pitch_keycenter=60 sample=Baritone Sax_60.wav
+<region> lokey=63 hikey=68 pitch_keycenter=63 sample=Baritone Sax_63.wav

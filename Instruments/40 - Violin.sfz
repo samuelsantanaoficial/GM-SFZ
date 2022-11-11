@@ -7,45 +7,18 @@ default_path=Samples/40 - Violin/
 amp_veltrack=80
 ampeg_release=0.4
 
-<region> key=55  pitch_keycenter=55 sample=Violn Sustn fxxx 55_01.wav
-<region> key=56  pitch_keycenter=56 sample=Violn Sustn fxxx 56_01.wav
-<region> key=57  pitch_keycenter=57 sample=Violn Sustn fxxx 57_01.wav
-<region> key=58  pitch_keycenter=58 sample=Violn Sustn fxxx 58_03.wav
-<region> key=59  pitch_keycenter=59 sample=Violn Sustn fxxx 59_03.wav
-<region> key=60  pitch_keycenter=60 sample=Violn Sustn fxxx 60_01.wav
-<region> key=61  pitch_keycenter=61 sample=Violn Sustn fxxx 61_03.wav
-<region> key=62  pitch_keycenter=62 sample=Violn Sustn fxxx 62_03.wav
-<region> key=63  pitch_keycenter=63 sample=Violn Sustn fxxx 63_03.wav
-<region> key=64  pitch_keycenter=64 sample=Violn Sustn fxxx 64_01.wav
-<region> key=65  pitch_keycenter=65 sample=Violn Sustn fxxx 65_03.wav
-<region> key=66  pitch_keycenter=66 sample=Violn Sustn fxxx 66_01.wav
-<region> key=67  pitch_keycenter=67 sample=Violn Sustn fxxx 67_01.wav
-<region> key=68  pitch_keycenter=68 sample=Violn Sustn fxxx 68_03.wav
-<region> key=69  pitch_keycenter=69 sample=Violn Sustn fxxx 69_03.wav
-<region> key=70  pitch_keycenter=70 sample=Violn Sustn fxxx 70_03.wav
-<region> key=71  pitch_keycenter=71 sample=Violn Sustn fxxx 71_03.wav
-<region> key=72  pitch_keycenter=72 sample=Violn Sustn fxxx 72_01.wav
-<region> key=73  pitch_keycenter=73 sample=Violn Sustn fxxx 73_03.wav
-<region> key=74  pitch_keycenter=74 sample=Violn Sustn fxxx 74_03.wav
-<region> key=75  pitch_keycenter=75 sample=Violn Sustn fxxx 75_03.wav
-<region> key=76  pitch_keycenter=76 sample=Violn Sustn fxxx 76_03.wav
-<region> key=77  pitch_keycenter=77 sample=Violn Sustn fxxx 77_03.wav
-<region> key=78  pitch_keycenter=78 sample=Violn Sustn fxxx 78_03.wav
-<region> key=79  pitch_keycenter=79 sample=Violn Sustn fxxx 79_03.wav
-<region> key=80  pitch_keycenter=80 sample=Violn Sustn fxxx 80_03.wav
-<region> key=81  pitch_keycenter=81 sample=Violn Sustn fxxx 81_03.wav
-<region> key=82  pitch_keycenter=82 sample=Violn Sustn fxxx 82_03.wav
-<region> key=83  pitch_keycenter=83 sample=Violn Sustn fxxx 83_01.wav
-<region> key=84  pitch_keycenter=84 sample=Violn Sustn fxxx 84_03.wav
-<region> key=85  pitch_keycenter=85 sample=Violn Sustn fxxx 85_03.wav
-<region> key=86  pitch_keycenter=86 sample=Violn Sustn fxxx 86_03.wav
-<region> key=87  pitch_keycenter=87 sample=Violn Sustn fxxx 87_03.wav
-<region> key=88  pitch_keycenter=88 sample=Violn Sustn fxxx 88_01.wav
-<region> key=89  pitch_keycenter=89 sample=Violn Sustn fxxx 89_03.wav
-<region> key=90  pitch_keycenter=90 sample=Violn Sustn fxxx 90_01.wav
-<region> key=91  pitch_keycenter=91 sample=Violn Sustn fxxx 91_03.wav
-<region> key=92  pitch_keycenter=92 sample=Violn Sustn fxxx 92_01.wav
-<region> key=93  pitch_keycenter=93 sample=Violn Sustn fxxx 93_03.wav
-<region> key=94  pitch_keycenter=94 sample=Violn Sustn fxxx 94_03.wav
-<region> key=95  pitch_keycenter=95 sample=Violn Sustn fxxx 95_03.wav
-<region> key=96  pitch_keycenter=96 sample=Violn Sustn fxxx 96_01.wav
+<region> lokey=54 hikey=56 pitch_keycenter=54 sample=Violin_54.wav
+<region> lokey=57 hikey=59 pitch_keycenter=57 sample=Violin_57.wav
+<region> lokey=60 hikey=62 pitch_keycenter=60 sample=Violin_60.wav
+<region> lokey=63 hikey=65 pitch_keycenter=63 sample=Violin_63.wav
+<region> lokey=66 hikey=68 pitch_keycenter=66 sample=Violin_66.wav
+<region> lokey=69 hikey=71 pitch_keycenter=69 sample=Violin_69.wav
+<region> lokey=72 hikey=74 pitch_keycenter=72 sample=Violin_72.wav
+<region> lokey=75 hikey=77 pitch_keycenter=75 sample=Violin_75.wav
+<region> lokey=78 hikey=80 pitch_keycenter=78 sample=Violin_78.wav
+<region> lokey=81 hikey=83 pitch_keycenter=81 sample=Violin_81.wav
+<region> lokey=84 hikey=86 pitch_keycenter=84 sample=Violin_84.wav
+<region> lokey=87 hikey=89 pitch_keycenter=87 sample=Violin_87.wav
+<region> lokey=90 hikey=92 pitch_keycenter=90 sample=Violin_90.wav
+<region> lokey=93 hikey=95 pitch_keycenter=93 sample=Violin_93.wav
+<region> lokey=96 hikey=96 pitch_keycenter=96 sample=Violin_96.wav
