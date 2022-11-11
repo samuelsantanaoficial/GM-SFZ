@@ -18,4 +18,3 @@ ampeg_release=0.4
 <region> lokey=78 hikey=80 pitch_keycenter=78 sample=Trumpet Muted_78.wav
 <region> lokey=81 hikey=83 pitch_keycenter=81 sample=Trumpet Muted_81.wav
 <region> lokey=84 hikey=86 pitch_keycenter=84 sample=Trumpet Muted_84.wav
-<region> lokey=87 hikey=89 pitch_keycenter=87 sample=Trumpet Muted_87.wav

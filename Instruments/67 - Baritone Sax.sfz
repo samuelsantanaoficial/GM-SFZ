@@ -16,4 +16,5 @@ ampeg_release=0.4
 <region> lokey=54 hikey=56 pitch_keycenter=54 sample=Baritone Sax_54.wav
 <region> lokey=57 hikey=59 pitch_keycenter=57 sample=Baritone Sax_57.wav
 <region> lokey=60 hikey=62 pitch_keycenter=60 sample=Baritone Sax_60.wav
-<region> lokey=63 hikey=68 pitch_keycenter=63 sample=Baritone Sax_63.wav
+<region> lokey=63 hikey=65 pitch_keycenter=63 sample=Baritone Sax_63.wav
+<region> lokey=66 hikey=68 pitch_keycenter=66 sample=Baritone Sax_66.wav
