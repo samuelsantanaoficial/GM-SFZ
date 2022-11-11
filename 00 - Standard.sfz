@@ -1,7 +1,7 @@
-//Drum Kit Standard GM - Samuel Santana - 2022
-//https://github.com/samuelsantanaoficial/standard.git
+//00 - Drum Kit Standard GM - Samuel Santana - 2022
+//https://github.com/samuelsantanaoficial/GM-SFZ.git
 <control>
-default_path=Samples/Standard/
+default_path=Samples/00 - Standard/
 
 <global>
 loop_mode=one_shot
@@ -104,3 +104,13 @@ volume=-8
 
 <region>key=86 pitch_keycenter=86 sample=Surdo Mute.wav
 <region>key=87 pitch_keycenter=87 sample=Surdo Open.wav
+
+
+//Metronome
+<group>
+loop_mode=one_shot
+amp_veltrack=0
+volume=0
+
+<region> key=34 sample=hiclick.wav
+<region> key=33 sample=loclick.wav

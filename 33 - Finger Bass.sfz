@@ -1,7 +1,7 @@
-//Finger Bass GM - Samuel Santana - 2022
-//https://github.com/samuelsantanaoficial/fingerbass
+//33 - Finger Bass GM - Samuel Santana - 2022
+//https://github.com/samuelsantanaoficial/GM-SFZ.git
 <control>
-default_path=Samples/Finger Bass/
+default_path=Samples/33 - Finger Bass/
 
 <master>
 amp_veltrack=80

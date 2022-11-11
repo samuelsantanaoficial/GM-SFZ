@@ -1,11 +1,11 @@
-//Cello GM - Samuel Santana - 2022
-//https://github.com/samuelsantanaoficial/cello
+//42 - Cello GM - Samuel Santana - 2022
+//https://github.com/samuelsantanaoficial/GM-SFZ.git
 <control>
-default_path=Samples/Cello/
+default_path=Samples/42 - Cello/
 
-<master>
+<group>
 amp_veltrack=80
-volume=0
+
 ampeg_attack=0.008
 ampeg_hold=0.776
 ampeg_decay=70.522

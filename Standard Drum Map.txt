@@ -49,3 +49,5 @@
 36 Kick
 35 Kick
 31 Sticks
+34 High Click
+33 Low Click

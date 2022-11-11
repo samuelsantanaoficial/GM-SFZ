@@ -1,11 +1,11 @@
-//Violin GM - Samuel Santana - 2022
-//https://github.com/samuelsantanaoficial/violin
+//40 - Violin GM - Samuel Santana - 2022
+//https://github.com/samuelsantanaoficial/GM-SFZ.git
 <control>
-default_path=Samples/Violin/
+default_path=Samples/40 - Violin/
 
-<master>
+<group>
 amp_veltrack=80
-volume=0
+
 ampeg_attack=0.008
 ampeg_hold=0.776
 ampeg_decay=70.522
