@@ -5,9 +5,15 @@
 <master>
 volume=-3
 
+pan=80
 #include "56 - Trumpet.sfz"
+pan=60
 #include "57 - Trombone.sfz"
-#include "58 - Tuba.sfz"
+pan=-80
 #include "65 - Alto Sax.sfz"
+pan=-60
 #include "66 - Tenor Sax.sfz"
+pan=90
+#include "58 - Tuba.sfz"
+pan=-90
 #include "67 - Baritone Sax.sfz"

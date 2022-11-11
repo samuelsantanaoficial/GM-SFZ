@@ -5,7 +5,11 @@
 <master>
 volume=-3
 
+pan=80
 #include "40 - Violin.sfz"
+pan=60
 #include "41 - Viola.sfz"
+pan=-60
 #include "42 - Cello.sfz"
+pan=-80
 #include "43 - Double Bass.sfz"
