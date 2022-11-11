@@ -7,10 +7,10 @@ default_path=Samples/33 - Finger Bass/
 amp_veltrack=80
 volume=0
 ampeg_attack=0.001
-ampeg_hold=0.001
-ampeg_decay=19.996
-ampeg_sustain=0.001
-ampeg_release=0.258
+ampeg_hold=0.1
+ampeg_decay=19.0
+ampeg_sustain=0.1
+ampeg_release=0.4
 
 <region> lokey=B0  hikey=D1  pitch_keycenter=C#1 sample=C#2sus1.wav
 <region> lokey=D#1 hikey=E1  pitch_keycenter=E1  sample=E2sus1.wav

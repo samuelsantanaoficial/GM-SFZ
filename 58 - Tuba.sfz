@@ -1,0 +1,53 @@
+//58 - Tuba GM - Samuel Santana - 2022
+//https://github.com/samuelsantanaoficial/GM-SFZ.git
+<control>
+default_path=Samples/58 - Tuba/
+
+<group>
+amp_veltrack=80
+ampeg_release=0.4
+
+<region> key=30  pitch_keycenter=30 sample=BTuba Sustn fxvb 30_09.wav
+<region> key=31  pitch_keycenter=31 sample=BTuba Sustn fxvb 31_09.wav
+<region> key=32  pitch_keycenter=32 sample=BTuba Sustn fxvb 32_11.wav
+<region> key=33  pitch_keycenter=33 sample=BTuba Sustn fxvb 33_09.wav
+<region> key=34  pitch_keycenter=34 sample=BTuba Sustn fxvb 34_11.wav
+<region> key=35  pitch_keycenter=35 sample=BTuba Sustn fxvb 35_07.wav
+<region> key=36  pitch_keycenter=36 sample=BTuba Sustn fxvb 36_11.wav
+<region> key=37  pitch_keycenter=37 sample=BTuba Sustn fxvb 37_09.wav
+<region> key=38  pitch_keycenter=38 sample=BTuba Sustn fxvb 38_07.wav
+<region> key=39  pitch_keycenter=39 sample=BTuba Sustn fxvb 39_11.wav
+<region> key=40  pitch_keycenter=40 sample=BTuba Sustn fxvb 40_09.wav
+<region> key=41  pitch_keycenter=41 sample=BTuba Sustn fxvb 41_11.wav
+<region> key=42  pitch_keycenter=42 sample=BTuba Sustn fxvb 42_11.wav
+<region> key=43  pitch_keycenter=43 sample=BTuba Sustn fxvb 43_09.wav
+<region> key=44  pitch_keycenter=44 sample=BTuba Sustn fxvb 44_11.wav
+<region> key=45  pitch_keycenter=45 sample=BTuba Sustn fxvb 45_11.wav
+<region> key=46  pitch_keycenter=46 sample=BTuba Sustn fxvb 46_11.wav
+<region> key=47  pitch_keycenter=47 sample=BTuba Sustn fxvb 47_11.wav
+<region> key=48  pitch_keycenter=48 sample=BTuba Sustn fxvb 48_09.wav
+<region> key=49  pitch_keycenter=49 sample=BTuba Sustn fxvb 49_11.wav
+<region> key=50  pitch_keycenter=50 sample=BTuba Sustn fxvb 50_11.wav
+<region> key=51  pitch_keycenter=51 sample=BTuba Sustn fxvb 51_09.wav
+<region> key=52  pitch_keycenter=52 sample=BTuba Sustn fxvb 52_11.wav
+<region> key=53  pitch_keycenter=53 sample=BTuba Sustn fxvb 53_09.wav
+<region> key=54  pitch_keycenter=54 sample=BTuba Sustn fxvb 54_11.wav
+<region> key=55  pitch_keycenter=55 sample=BTuba Sustn fxvb 55_09.wav
+<region> key=56  pitch_keycenter=56 sample=BTuba Sustn fxvb 56_11.wav
+<region> key=57  pitch_keycenter=57 sample=BTuba Sustn fxvb 57_11.wav
+<region> key=58  pitch_keycenter=58 sample=BTuba Sustn fxvb 58_07.wav
+<region> key=59  pitch_keycenter=59 sample=BTuba Sustn fxvb 59_11.wav
+<region> key=60  pitch_keycenter=60 sample=BTuba Sustn fxvb 60_11.wav
+<region> key=61  pitch_keycenter=61 sample=BTuba Sustn fxvb 61_09.wav
+<region> key=62  pitch_keycenter=62 sample=BTuba Sustn fxvb 62_11.wav
+<region> key=63  pitch_keycenter=63 sample=BTuba Sustn fxvb 63_07.wav
+<region> key=64  pitch_keycenter=64 sample=BTuba Sustn fxvb 64_09.wav
+<region> key=65  pitch_keycenter=65 sample=BTuba Sustn fxvb 65_07.wav
+<region> key=22  pitch_keycenter=22 sample=BTuba Sustn fxvb 22_11.wav
+<region> key=23  pitch_keycenter=23 sample=BTuba Sustn fxvb 23_09.wav
+<region> key=24  pitch_keycenter=24 sample=BTuba Sustn fxvb 24_09.wav
+<region> key=25  pitch_keycenter=25 sample=BTuba Sustn fxvb 25_07.wav
+<region> key=26  pitch_keycenter=26 sample=BTuba Sustn fxvb 26_09.wav
+<region> key=27  pitch_keycenter=27 sample=BTuba Sustn fxvb 27_11.wav
+<region> key=28  pitch_keycenter=28 sample=BTuba Sustn fxvb 28_07.wav
+<region> key=29  pitch_keycenter=29 sample=BTuba Sustn fxvb 29_07.wav

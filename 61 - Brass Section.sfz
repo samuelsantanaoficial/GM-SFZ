@@ -1,0 +1,13 @@
+//61 - Brass Section GM - Samuel Santana - 2022
+//https://github.com/samuelsantanaoficial/GM-SFZ.git
+
+
+<master>
+volume=-3
+
+#include "56 - Trumpet.sfz"
+#include "57 - Trombone.sfz"
+#include "58 - Tuba.sfz"
+#include "65 - Alto Sax.sfz"
+#include "66 - Tenor Sax.sfz"
+#include "67 - Baritone Sax.sfz"

@@ -3,7 +3,7 @@
 
 
 <master>
-volume=-9
+volume=-3
 
 #include "40 - Violin.sfz"
 #include "41 - Viola.sfz"

@@ -32,7 +32,7 @@ group=3
 off_by=3
 off_mode=normal
 ampeg_release=0.07
-volume=-6
+volume=-12
 
 <region>key=42 sample=Hihat ClosedShank.wav
 <region>key=44 sample=Hihat ClosedPedal.wav

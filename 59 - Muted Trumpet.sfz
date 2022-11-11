@@ -1,0 +1,42 @@
+//59 - Muted Trumpet GM - Samuel Santana - 2022
+//https://github.com/samuelsantanaoficial/GM-SFZ.git
+<control>
+default_path=Samples/59 - Muted Trumpet/
+
+<group>
+amp_veltrack=80
+ampeg_release=0.4
+
+<region> key=61  pitch_keycenter=61 sample=MTrup Sustn fxvb 61_07.wav
+<region> key=62  pitch_keycenter=62 sample=MTrup Sustn fxvb 62_09.wav
+<region> key=63  pitch_keycenter=63 sample=MTrup Sustn fxvb 63_09.wav
+<region> key=64  pitch_keycenter=64 sample=MTrup Sustn fxvb 64_11.wav
+<region> key=65  pitch_keycenter=65 sample=MTrup Sustn fxvb 65_11.wav
+<region> key=66  pitch_keycenter=66 sample=MTrup Sustn fxvb 66_11.wav
+<region> key=67  pitch_keycenter=67 sample=MTrup Sustn fxvb 67_09.wav
+<region> key=68  pitch_keycenter=68 sample=MTrup Sustn fxvb 68_11.wav
+<region> key=69  pitch_keycenter=69 sample=MTrup Sustn fxvb 69_09.wav
+<region> key=70  pitch_keycenter=70 sample=MTrup Sustn fxvb 70_09.wav
+<region> key=71  pitch_keycenter=71 sample=MTrup Sustn fxvb 71_11.wav
+<region> key=72  pitch_keycenter=72 sample=MTrup Sustn fxvb 72_11.wav
+<region> key=73  pitch_keycenter=73 sample=MTrup Sustn fxvb 73_09.wav
+<region> key=74  pitch_keycenter=74 sample=MTrup Sustn fxvb 74_09.wav
+<region> key=75  pitch_keycenter=75 sample=MTrup Sustn fxvb 75_07.wav
+<region> key=76  pitch_keycenter=76 sample=MTrup Sustn fxvb 76_07.wav
+<region> key=77  pitch_keycenter=77 sample=MTrup Sustn fxvb 77_09.wav
+<region> key=78  pitch_keycenter=78 sample=MTrup Sustn fxvb 78_11.wav
+<region> key=79  pitch_keycenter=79 sample=MTrup Sustn fxvb 79_09.wav
+<region> key=80  pitch_keycenter=80 sample=MTrup Sustn fxvb 80_07.wav
+<region> key=81  pitch_keycenter=81 sample=MTrup Sustn fxvb 81_11.wav
+<region> key=82  pitch_keycenter=82 sample=MTrup Sustn fxvb 82_11.wav
+<region> key=83  pitch_keycenter=83 sample=MTrup Sustn fxvb 83_11.wav
+<region> key=84  pitch_keycenter=84 sample=MTrup Sustn fxvb 84_07.wav
+<region> key=52  pitch_keycenter=52 sample=MTrup Sustn fxvb 52_07.wav
+<region> key=53  pitch_keycenter=53 sample=MTrup Sustn fxvb 53_11.wav
+<region> key=54  pitch_keycenter=54 sample=MTrup Sustn fxvb 54_09.wav
+<region> key=55  pitch_keycenter=55 sample=MTrup Sustn fxvb 55_07.wav
+<region> key=56  pitch_keycenter=56 sample=MTrup Sustn fxvb 56_11.wav
+<region> key=57  pitch_keycenter=57 sample=MTrup Sustn fxvb 57_11.wav
+<region> key=58  pitch_keycenter=58 sample=MTrup Sustn fxvb 58_09.wav
+<region> key=59  pitch_keycenter=59 sample=MTrup Sustn fxvb 59_09.wav
+<region> key=60  pitch_keycenter=60 sample=MTrup Sustn fxvb 60_07.wav

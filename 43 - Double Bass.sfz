@@ -5,10 +5,6 @@ default_path=Samples/43 - Double Bass/
 
 <group>
 amp_veltrack=80
-ampeg_attack=0.008
-ampeg_hold=0.776
-ampeg_decay=70.522
-ampeg_sustain=48.9779
 ampeg_release=0.4
 
 <region> key=37 pitch_keycenter=37 sample=CBass Bowtu fxxx 37_01.wav

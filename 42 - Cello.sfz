@@ -5,11 +5,6 @@ default_path=Samples/42 - Cello/
 
 <group>
 amp_veltrack=80
-
-ampeg_attack=0.008
-ampeg_hold=0.776
-ampeg_decay=70.522
-ampeg_sustain=48.9779
 ampeg_release=0.4
 
 <region> key=38 pitch_keycenter=38 sample=Cello Sustn fxxx 38_03.wav

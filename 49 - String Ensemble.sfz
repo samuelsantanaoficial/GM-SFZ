@@ -1,0 +1,12 @@
+//48 - String Esemble GM - Samuel Santana - 2022
+//https://github.com/samuelsantanaoficial/GM-SFZ.git
+
+
+<master>
+volume=-3
+ampeg_attack=1.5
+
+#include "40 - Violin.sfz"
+#include "41 - Viola.sfz"
+#include "42 - Cello.sfz"
+#include "43 - Double Bass.sfz"

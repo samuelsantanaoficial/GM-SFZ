@@ -5,11 +5,6 @@ default_path=Samples/41 - Viola/
 
 <group>
 amp_veltrack=80
-
-ampeg_attack=0.008
-ampeg_hold=0.776
-ampeg_decay=70.522
-ampeg_sustain=48.9779
 ampeg_release=0.4
 
 <region> key=48 pitch_keycenter=48 sample=Viola Sustn fxxx 48_03.wav

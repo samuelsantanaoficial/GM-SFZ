@@ -1,0 +1,49 @@
+//57 - Trombone GM - Samuel Santana - 2022
+//https://github.com/samuelsantanaoficial/GM-SFZ.git
+<control>
+default_path=Samples/57 - Trombone/
+
+<group>
+amp_veltrack=80
+ampeg_release=0.4
+
+<region> key=41  pitch_keycenter=41 sample=BTrom Sustn fxvb 41_11.wav
+<region> key=42  pitch_keycenter=42 sample=BTrom Sustn fxvb 42_11.wav
+<region> key=43  pitch_keycenter=43 sample=BTrom Sustn fxvb 43_09.wav
+<region> key=44  pitch_keycenter=44 sample=BTrom Sustn fxvb 44_09.wav
+<region> key=45  pitch_keycenter=45 sample=BTrom Sustn fxvb 45_07.wav
+<region> key=46  pitch_keycenter=46 sample=BTrom Sustn fxvb 46_09.wav
+<region> key=47  pitch_keycenter=47 sample=BTrom Sustn fxvb 47_07.wav
+<region> key=48  pitch_keycenter=48 sample=BTrom Sustn fxvb 48_09.wav
+<region> key=49  pitch_keycenter=49 sample=BTrom Sustn fxvb 49_09.wav
+<region> key=50  pitch_keycenter=50 sample=BTrom Sustn fxvb 50_09.wav
+<region> key=51  pitch_keycenter=51 sample=BTrom Sustn fxvb 51_11.wav
+<region> key=52  pitch_keycenter=52 sample=BTrom Sustn fxvb 52_11.wav
+<region> key=53  pitch_keycenter=53 sample=BTrom Sustn fxvb 53_09.wav
+<region> key=54  pitch_keycenter=54 sample=BTrom Sustn fxvb 54_09.wav
+<region> key=55  pitch_keycenter=55 sample=BTrom Sustn fxvb 55_07.wav
+<region> key=56  pitch_keycenter=56 sample=BTrom Sustn fxvb 56_11.wav
+<region> key=57  pitch_keycenter=57 sample=BTrom Sustn fxvb 57_11.wav
+<region> key=58  pitch_keycenter=58 sample=BTrom Sustn fxvb 58_11.wav
+<region> key=59  pitch_keycenter=59 sample=BTrom Sustn fxvb 59_09.wav
+<region> key=60  pitch_keycenter=60 sample=BTrom Sustn fxvb 60_11.wav
+<region> key=61  pitch_keycenter=61 sample=BTrom Sustn fxvb 61_11.wav
+<region> key=62  pitch_keycenter=62 sample=BTrom Sustn fxvb 62_11.wav
+<region> key=63  pitch_keycenter=63 sample=BTrom Sustn fxvb 63_11.wav
+<region> key=64  pitch_keycenter=64 sample=BTrom Sustn fxvb 64_09.wav
+<region> key=65  pitch_keycenter=65 sample=BTrom Sustn fxvb 65_07.wav
+<region> key=26  pitch_keycenter=26 sample=BTrom Sustn fxvb 26_07.wav
+<region> key=27  pitch_keycenter=27 sample=BTrom Sustn fxvb 27_09.wav
+<region> key=28  pitch_keycenter=28 sample=BTrom Sustn fxvb 28_09.wav
+<region> key=29  pitch_keycenter=29 sample=BTrom Sustn fxvb 29_09.wav
+<region> key=30  pitch_keycenter=30 sample=BTrom Sustn fxvb 30_09.wav
+<region> key=31  pitch_keycenter=31 sample=BTrom Sustn fxvb 31_07.wav
+<region> key=32  pitch_keycenter=32 sample=BTrom Sustn fxvb 32_11.wav
+<region> key=33  pitch_keycenter=33 sample=BTrom Sustn fxvb 33_11.wav
+<region> key=34  pitch_keycenter=34 sample=BTrom Sustn fxvb 34_11.wav
+<region> key=35  pitch_keycenter=35 sample=BTrom Sustn fxvb 35_09.wav
+<region> key=36  pitch_keycenter=36 sample=BTrom Sustn fxvb 36_11.wav
+<region> key=37  pitch_keycenter=37 sample=BTrom Sustn fxvb 37_11.wav
+<region> key=38  pitch_keycenter=38 sample=BTrom Sustn fxvb 38_09.wav
+<region> key=39  pitch_keycenter=39 sample=BTrom Sustn fxvb 39_09.wav
+<region> key=40  pitch_keycenter=40 sample=BTrom Sustn fxvb 40_09.wav
