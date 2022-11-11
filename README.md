@@ -1,6 +1,6 @@
 # Intrumentos Padrão GM - sfz
 ## Intrumentos General Midi em formato sfz
-### v1.0.25
+### v1.0.26
 
 https://sfz.tools/sfizz/
 
