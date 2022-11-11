@@ -1,7 +1,7 @@
 //26 - Electric Guitar GM - Samuel Santana - 2022
 //https://github.com/samuelsantanaoficial/GM-SFZ.git
 <control>
-default_path=Samples/26 - Electric Guitar/
+default_path=Samples/26 - Electric Guitar Les Paul/
 
 <group>
 amp_veltrack=80
@@ -15,4 +15,5 @@ ampeg_release=0.4
 <region> lokey=64  hikey=67  pitch_keycenter=64 sample=EG1_64.wav
 <region> lokey=68  hikey=71  pitch_keycenter=68 sample=EG1_68.wav
 <region> lokey=72  hikey=75  pitch_keycenter=72 sample=EG1_72.wav
-<region> lokey=76  hikey=84  pitch_keycenter=76 sample=EG1_76.wav
+<region> lokey=76  hikey=79  pitch_keycenter=76 sample=EG1_76.wav
+<region> lokey=80  hikey=84  pitch_keycenter=80 sample=EG1_80.wav

@@ -1,7 +1,7 @@
 //24 - Acoustic Guitar GM - Samuel Santana - 2022
 //https://github.com/samuelsantanaoficial/GM-SFZ.git
 <control>
-default_path=Samples/24 - Acoustic Guitar/
+default_path=Samples/24 - Acoustic Guitar Nylon/
 
 <group>
 amp_veltrack=80
