@@ -1,11 +1,18 @@
-//67 - Baritone Sax GM - Samuel Santana - 2022
+//067 - Baritone Sax GM - Samuel Santana - 2022
 //https://github.com/samuelsantanaoficial/GM-SFZ.git
 <control>
-default_path=Samples/67 - Baritone Sax/
+default_path=Samples/067 - Baritone Sax/
 
 <group>
 amp_veltrack=80
 ampeg_release=0.4
+
+//vibrato
+lfo01_volume_oncc1=1.5
+lfo01_pitch_oncc1=20
+lfo01_freq_oncc1=4.5
+lfo01_delay_oncc1=2.500
+lfo01_fade_oncc1=1.500
 
 <region> lokey=36 hikey=38 pitch_keycenter=36 sample=Baritone Sax_36.wav
 <region> lokey=39 hikey=41 pitch_keycenter=39 sample=Baritone Sax_39.wav

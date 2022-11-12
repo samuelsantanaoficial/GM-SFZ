@@ -1,11 +1,18 @@
-//59 - Trumpet Muted GM - Samuel Santana - 2022
+//059 - Trumpet Muted GM - Samuel Santana - 2022
 //https://github.com/samuelsantanaoficial/GM-SFZ.git
 <control>
-default_path=Samples/59 - Trumpet Muted/
+default_path=Samples/059 - Trumpet Muted/
 
 <group>
 amp_veltrack=80
 ampeg_release=0.4
+
+//vibrato
+lfo01_volume_oncc1=1.5
+lfo01_pitch_oncc1=20
+lfo01_freq_oncc1=4.5
+lfo01_delay_oncc1=2.500
+lfo01_fade_oncc1=1.500
 
 <region> lokey=52 hikey=56 pitch_keycenter=54 sample=Trumpet Muted_54.wav
 <region> lokey=57 hikey=59 pitch_keycenter=57 sample=Trumpet Muted_57.wav

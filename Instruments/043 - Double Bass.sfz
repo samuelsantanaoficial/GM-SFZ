@@ -1,11 +1,18 @@
-//43 - Double Bass GM - Samuel Santana - 2022
+//043 - Double Bass GM - Samuel Santana - 2022
 //https://github.com/samuelsantanaoficial/GM-SFZ.git
 <control>
-default_path=Samples/43 - Double Bass/
+default_path=Samples/043 - Double Bass/
 
 <group>
 amp_veltrack=80
 ampeg_release=0.4
+
+//vibrato
+lfo01_volume_oncc1=1.5
+lfo01_pitch_oncc1=15
+lfo01_freq_oncc1=5
+lfo01_delay_oncc1=1.500
+lfo01_fade_oncc1=0.500
 
 <region> lokey=24 hikey=26 pitch_keycenter=24 sample=Double Bass_24.wav
 <region> lokey=27 hikey=29 pitch_keycenter=27 sample=Double Bass_27.wav

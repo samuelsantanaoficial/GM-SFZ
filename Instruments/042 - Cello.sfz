@@ -1,11 +1,18 @@
-//42 - Cello GM - Samuel Santana - 2022
+//042 - Cello GM - Samuel Santana - 2022
 //https://github.com/samuelsantanaoficial/GM-SFZ.git
 <control>
-default_path=Samples/42 - Cello/
+default_path=Samples/042 - Cello/
 
 <group>
 amp_veltrack=80
 ampeg_release=0.4
+
+//vibrato
+lfo01_volume_oncc1=1.5
+lfo01_pitch_oncc1=20
+lfo01_freq_oncc1=5
+lfo01_delay_oncc1=1.500
+lfo01_fade_oncc1=0.500
 
 <region> lokey=36 hikey=38 pitch_keycenter=36 sample=Cello_36.wav
 <region> lokey=39 hikey=41 pitch_keycenter=39 sample=Cello_39.wav

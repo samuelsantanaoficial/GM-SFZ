@@ -1,11 +1,18 @@
-//41 - Viola GM - Samuel Santana - 2022
+//041 - Viola GM - Samuel Santana - 2022
 //https://github.com/samuelsantanaoficial/GM-SFZ.git
 <control>
-default_path=Samples/41 - Viola/
+default_path=Samples/041 - Viola/
 
 <group>
 amp_veltrack=80
 ampeg_release=0.4
+
+//vibrato
+lfo01_volume_oncc1=1
+lfo01_pitch_oncc1=25
+lfo01_freq_oncc1=5
+lfo01_delay_oncc1=1.500
+lfo01_fade_oncc1=0.500
 
 <region> lokey=48 hikey=50 pitch_keycenter=48 sample=Viola_48.wav
 <region> lokey=51 hikey=53 pitch_keycenter=51 sample=Viola_51.wav

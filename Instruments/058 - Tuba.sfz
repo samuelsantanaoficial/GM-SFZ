@@ -1,11 +1,18 @@
-//58 - Tuba GM - Samuel Santana - 2022
+//058 - Tuba GM - Samuel Santana - 2022
 //https://github.com/samuelsantanaoficial/GM-SFZ.git
 <control>
-default_path=Samples/58 - Tuba/
+default_path=Samples/058 - Tuba/
 
 <group>
 amp_veltrack=80
 ampeg_release=0.4
+
+//vibrato
+lfo01_volume_oncc1=1.5
+lfo01_pitch_oncc1=20
+lfo01_freq_oncc1=4.5
+lfo01_delay_oncc1=2.500
+lfo01_fade_oncc1=1.500
 
 <region> lokey=22 hikey=26 pitch_keycenter=24 sample=Tuba_24.wav
 <region> lokey=27 hikey=29 pitch_keycenter=27 sample=Tuba_27.wav

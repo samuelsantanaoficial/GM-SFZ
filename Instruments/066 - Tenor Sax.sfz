@@ -1,11 +1,18 @@
-//66 - Tenor Sax GM - Samuel Santana - 2022
+//066 - Tenor Sax GM - Samuel Santana - 2022
 //https://github.com/samuelsantanaoficial/GM-SFZ.git
 <control>
-default_path=Samples/66 - Tenor Sax/
+default_path=Samples/066 - Tenor Sax/
 
 <group>
 amp_veltrack=80
 ampeg_release=0.4
+
+//vibrato
+lfo01_volume_oncc1=1.5
+lfo01_pitch_oncc1=20
+lfo01_freq_oncc1=4.5
+lfo01_delay_oncc1=2.500
+lfo01_fade_oncc1=1.500
 
 <region> lokey=44 hikey=49 pitch_keycenter=45 sample=Tenor Sax_45.wav
 <region> lokey=48 hikey=50 pitch_keycenter=48 sample=Tenor Sax_48.wav

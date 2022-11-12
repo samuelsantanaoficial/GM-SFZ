@@ -1,11 +1,18 @@
-//53 - Voice Aahs GM - Samuel Santana - 2022
+//053 - Voice Aahs GM - Samuel Santana - 2022
 //https://github.com/samuelsantanaoficial/GM-SFZ.git
 <control>
-default_path=Samples/53 - Voice Aahs/
+default_path=Samples/053 - Voice Aahs/
 
 <group>
 amp_veltrack=80
 ampeg_release=0.4
+
+//vibrato
+lfo01_volume_oncc1=1.5
+lfo01_pitch_oncc1=20
+lfo01_freq_oncc1=4.5
+lfo01_delay_oncc1=3.500
+lfo01_fade_oncc1=1.500
 
 <region> lokey=40 hikey=44 pitch_keycenter=42 sample=Samuel Aahs_42.wav
 <region> lokey=45 hikey=47 pitch_keycenter=45 sample=Samuel Aahs_45.wav

@@ -1,12 +1,21 @@
-//33 - Electric Bass Finger GM - Samuel Santana - 2022
+//033 - Electric Bass Finger GM - Samuel Santana - 2022
 //https://github.com/samuelsantanaoficial/GM-SFZ.git
 <control>
-default_path=Samples/33 - Electric Bass Finger/
+default_path=Samples/033 - Electric Bass Finger/
 
 <master>
 amp_veltrack=80
 volume=0
 ampeg_release=0.4
+
+//Bend 100 = 1 semitom
+bend_step=200
+
+//vibrato
+lfo01_pitch_oncc1=20
+lfo01_freq_oncc1=5
+lfo01_delay_oncc1=1.500
+lfo01_fade_oncc1=0.500
 
 <region> lokey=23  hikey=27  pitch_keycenter=23 sample=Electric Bass Finger_23.wav
 <region> lokey=28  hikey=32  pitch_keycenter=28 sample=Electric Bass Finger_28.wav

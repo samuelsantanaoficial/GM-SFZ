@@ -1,7 +1,7 @@
-//36 - Electric Bass Slap GM - Samuel Santana - 2022
+//036 - Electric Bass Slap GM - Samuel Santana - 2022
 //https://github.com/samuelsantanaoficial/GM-SFZ.git
 <control>
-default_path=Samples/36 - Electric Bass Slap/
+default_path=Samples/036 - Electric Bass Slap/
 
 <master>
 amp_veltrack=80

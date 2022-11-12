@@ -1,12 +1,20 @@
-//24 - Acoustic Guitar GM - Samuel Santana - 2022
+//024 - Acoustic Guitar GM - Samuel Santana - 2022
 //https://github.com/samuelsantanaoficial/GM-SFZ.git
 <control>
-default_path=Samples/24 - Acoustic Guitar Nylon/
+default_path=Samples/024 - Acoustic Guitar Nylon/
 
 <group>
 amp_veltrack=80
 ampeg_release=0.4
 
+//Bend 100 = 1 semitom
+bend_step=200
+
+//vibrato
+lfo01_pitch_oncc1=25
+lfo01_freq_oncc1=5
+lfo01_delay_oncc1=1.500
+lfo01_fade_oncc1=0.500
 
 <region> lokey=40  hikey=44  pitch_keycenter=40 sample=Acoustic Guitar Nylon_40.wav
 <region> lokey=45  hikey=49  pitch_keycenter=45 sample=Acoustic Guitar Nylon_45.wav

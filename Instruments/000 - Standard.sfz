@@ -1,7 +1,7 @@
-//00 - Drum Kit Standard GM - Samuel Santana - 2022
+//000 - Drum Kit Standard GM - Samuel Santana - 2022
 //https://github.com/samuelsantanaoficial/GM-SFZ.git
 <control>
-default_path=Samples/00 - Standard/
+default_path=Samples/000 - Standard/
 
 <global>
 loop_mode=one_shot

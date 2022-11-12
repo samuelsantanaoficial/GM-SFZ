@@ -1,11 +1,18 @@
-//57 - Trombone GM - Samuel Santana - 2022
+//057 - Trombone GM - Samuel Santana - 2022
 //https://github.com/samuelsantanaoficial/GM-SFZ.git
 <control>
-default_path=Samples/57 - Trombone/
+default_path=Samples/057 - Trombone/
 
 <group>
 amp_veltrack=80
 ampeg_release=0.4
+
+//vibrato
+lfo01_volume_oncc1=1.5
+lfo01_pitch_oncc1=20
+lfo01_freq_oncc1=4.5
+lfo01_delay_oncc1=2.500
+lfo01_fade_oncc1=1.500
 
 <region> lokey=26 hikey=29 pitch_keycenter=27 sample=Trombone_27.wav
 <region> lokey=30 hikey=32 pitch_keycenter=30 sample=Trombone_30.wav

@@ -1,11 +1,18 @@
-//65 - Alto Sax GM - Samuel Santana - 2022
+//065 - Alto Sax GM - Samuel Santana - 2022
 //https://github.com/samuelsantanaoficial/GM-SFZ.git
 <control>
-default_path=Samples/65 - Alto Sax/
+default_path=Samples/065 - Alto Sax/
 
 <group>
 amp_veltrack=80
 ampeg_release=0.4
+
+//vibrato
+lfo01_volume_oncc1=1.5
+lfo01_pitch_oncc1=20
+lfo01_freq_oncc1=4.5
+lfo01_delay_oncc1=2.500
+lfo01_fade_oncc1=1.500
 
 <region> lokey=49 hikey=53 pitch_keycenter=51 sample=Alto Sax_51.wav
 <region> lokey=54 hikey=56 pitch_keycenter=54 sample=Alto Sax_54.wav
